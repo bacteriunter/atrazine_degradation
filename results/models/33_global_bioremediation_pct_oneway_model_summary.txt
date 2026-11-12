@@ -1,0 +1,28 @@
+                                OLS Regression Results                               
+=====================================================================================
+Dep. Variable:     global_bioremediation_pct   R-squared:                       0.924
+Model:                                   OLS   Adj. R-squared:                  0.894
+Method:                        Least Squares   F-statistic:                     30.51
+Date:                       Thu, 01 Oct 2026   Prob (F-statistic):           1.40e-05
+Time:                               13:06:10   Log-Likelihood:                -42.993
+No. Observations:                         15   AIC:                             95.99
+Df Residuals:                             10   BIC:                             99.53
+Df Model:                                  4                                         
+Covariance Type:                   nonrobust                                         
+=======================================================================================
+                          coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------
+Intercept              24.4417      3.006      8.131      0.000      17.744      31.140
+C(treatment)[T.R]       6.9300      4.251      1.630      0.134      -2.543      16.403
+C(treatment)[T.RT]     19.0580      4.251      4.483      0.001       9.586      28.531
+C(treatment)[T.T]      31.4134      4.251      7.389      0.000      21.941      40.886
+C(treatment)[T.Tes]   -11.3534      4.251     -2.671      0.023     -20.826      -1.881
+==============================================================================
+Omnibus:                        0.618   Durbin-Watson:                   2.953
+Prob(Omnibus):                  0.734   Jarque-Bera (JB):                0.375
+Skew:                          -0.356   Prob(JB):                        0.829
+Kurtosis:                       2.696   Cond. No.                         5.83
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

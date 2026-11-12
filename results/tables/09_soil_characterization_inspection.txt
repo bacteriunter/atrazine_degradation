@@ -1,0 +1,233 @@
+================================================================================
+AUDITORÍA ESPECÍFICA — BASE 3
+CARACTERIZACIÓN FISICOQUÍMICA DE SUELOS
+================================================================================
+
+Archivo: base_3.xlsx
+Lectura: header=None
+Hojas encontradas: Hoja1
+
+================================================================================
+HOJA: Hoja1
+================================================================================
+
+Dimensiones con header=None: 63 filas × 2 columnas
+
+CONTENIDO COMPLETO
+--------------------------------------------------------------------------------
+       0       1
+0     Ds   2.490
+1     Ds   2.140
+2     Ds   2.430
+3     Dc   2.350
+4     Dc   2.430
+5     Dc   2.350
+6     Dt   2.000
+7     Dt   2.290
+8     Dt   2.590
+9    pHs   8.130
+10   pHs   7.970
+11   pHs   8.020
+12   pHc   6.690
+13   pHc   7.200
+14   pHc   6.650
+15   pHt   6.280
+16   pHt   6.650
+17   pHt   6.310
+18    Hs  11.900
+19    Hs  11.800
+20    Hs  11.850
+21    Hc  14.950
+22    Hc  14.350
+23    Hc  14.890
+24    Ht  15.950
+25    Ht  14.910
+26    Ht  15.560
+27    Ns   0.260
+28    Ns   0.300
+29    Ns   0.310
+30    Nc   0.190
+31    Nc   0.180
+32    Nc   0.200
+33    Nt   0.247
+34    Nt   0.245
+35    Nt   0.251
+36   COs   4.071
+37   COs   4.090
+38   COs   4.070
+39   COc   2.840
+40   COc   2.900
+41   COc   2.860
+42   COt   3.360
+43   COt   3.340
+44   COt   3.380
+45   MOs   4.060
+46   MOs   4.060
+47   MOs   4.020
+48   MOc   4.940
+49   MOc   4.930
+50   MOc   4.950
+51   MOt   5.790
+52   MOt   5.780
+53   MOt   5.780
+54  CICs  25.450
+55  CICs  25.360
+56  CICs  25.570
+57  CICc  29.350
+58  CICc  29.340
+59  CICc  29.360
+60  CICt  59.620
+61  CICt  59.610
+62  CICt  59.660
+
+VALORES NO VACÍOS POR COLUMNA
+--------------------------------------------------------------------------------
+Columna 0: 63
+Columna 1: 63
+
+FILAS COMPLETAMENTE VACÍAS
+--------------------------------------------------------------------------------
+Ninguna
+
+COLUMNAS COMPLETAMENTE VACÍAS
+--------------------------------------------------------------------------------
+Ninguna
+
+VALORES POR COLUMNA
+--------------------------------------------------------------------------------
+
+Columna 0
+  fila 0: 'Ds'
+  fila 1: 'Ds'
+  fila 2: 'Ds'
+  fila 3: 'Dc'
+  fila 4: 'Dc'
+  fila 5: 'Dc'
+  fila 6: 'Dt'
+  fila 7: 'Dt'
+  fila 8: 'Dt'
+  fila 9: 'pHs'
+  fila 10: 'pHs'
+  fila 11: 'pHs'
+  fila 12: 'pHc'
+  fila 13: 'pHc'
+  fila 14: 'pHc'
+  fila 15: 'pHt'
+  fila 16: 'pHt'
+  fila 17: 'pHt'
+  fila 18: 'Hs'
+  fila 19: 'Hs'
+  fila 20: 'Hs'
+  fila 21: 'Hc'
+  fila 22: 'Hc'
+  fila 23: 'Hc'
+  fila 24: 'Ht'
+  fila 25: 'Ht'
+  fila 26: 'Ht'
+  fila 27: 'Ns'
+  fila 28: 'Ns'
+  fila 29: 'Ns'
+  fila 30: 'Nc'
+  fila 31: 'Nc'
+  fila 32: 'Nc'
+  fila 33: 'Nt'
+  fila 34: 'Nt'
+  fila 35: 'Nt'
+  fila 36: 'COs'
+  fila 37: 'COs'
+  fila 38: 'COs'
+  fila 39: 'COc'
+  fila 40: 'COc'
+  fila 41: 'COc'
+  fila 42: 'COt'
+  fila 43: 'COt'
+  fila 44: 'COt'
+  fila 45: 'MOs'
+  fila 46: 'MOs'
+  fila 47: 'MOs'
+  fila 48: 'MOc'
+  fila 49: 'MOc'
+  fila 50: 'MOc'
+  fila 51: 'MOt'
+  fila 52: 'MOt'
+  fila 53: 'MOt'
+  fila 54: 'CICs'
+  fila 55: 'CICs'
+  fila 56: 'CICs'
+  fila 57: 'CICc'
+  fila 58: 'CICc'
+  fila 59: 'CICc'
+  fila 60: 'CICt'
+  fila 61: 'CICt'
+  fila 62: 'CICt'
+
+Columna 1
+  fila 0: 2.49
+  fila 1: 2.14
+  fila 2: 2.43
+  fila 3: 2.35
+  fila 4: 2.43
+  fila 5: 2.35
+  fila 6: 2.0
+  fila 7: 2.29
+  fila 8: 2.59
+  fila 9: 8.13
+  fila 10: 7.97
+  fila 11: 8.02
+  fila 12: 6.69
+  fila 13: 7.2
+  fila 14: 6.65
+  fila 15: 6.28
+  fila 16: 6.65
+  fila 17: 6.31
+  fila 18: 11.9
+  fila 19: 11.8
+  fila 20: 11.85
+  fila 21: 14.95
+  fila 22: 14.35
+  fila 23: 14.89
+  fila 24: 15.95
+  fila 25: 14.91
+  fila 26: 15.56
+  fila 27: 0.26
+  fila 28: 0.3
+  fila 29: 0.31
+  fila 30: 0.19
+  fila 31: 0.18
+  fila 32: 0.2
+  fila 33: 0.247
+  fila 34: 0.245
+  fila 35: 0.251
+  fila 36: 4.071
+  fila 37: 4.09
+  fila 38: 4.07
+  fila 39: 2.84
+  fila 40: 2.9
+  fila 41: 2.86
+  fila 42: 3.36
+  fila 43: 3.34
+  fila 44: 3.38
+  fila 45: 4.06
+  fila 46: 4.06
+  fila 47: 4.02
+  fila 48: 4.94
+  fila 49: 4.93
+  fila 50: 4.95
+  fila 51: 5.79
+  fila 52: 5.78
+  fila 53: 5.78
+  fila 54: 25.45
+  fila 55: 25.36
+  fila 56: 25.57
+  fila 57: 29.35
+  fila 58: 29.34
+  fila 59: 29.36
+  fila 60: 59.62
+  fila 61: 59.61
+  fila 62: 59.66
+
+================================================================================
+NOTA
+================================================================================
+Esta auditoría no asigna significado a las etiquetas ni modifica valores.
+No se realizó limpieza, transformación ni análisis estadístico.

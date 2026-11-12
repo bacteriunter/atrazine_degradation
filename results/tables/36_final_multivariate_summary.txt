@@ -1,0 +1,52 @@
+==========================================================================================
+FINAL EXPLORATORY MULTIVARIATE ANALYSIS — BASE 2
+==========================================================================================
+
+Variables included:
+- Growth time (days)
+- Inhibition at 5000 ppm (%)
+- Inhibition at 7500 ppm (%)
+- Inhibition at 10000 ppm (%)
+
+Growth rate was excluded because it is deterministically derived from growth time (growth rate = 80 / growth time).
+
+PCA EXPLAINED VARIANCE
+------------------------------------------------------------------------------------------
+Principal component  Explained variance (%)  Cumulative variance (%)  Eigenvalue
+                PC1               83.474503                83.474503    3.450279
+                PC2               14.272905                97.747408    0.589947
+                PC3                1.953960                99.701368    0.080764
+                PC4                0.298632               100.000000    0.012343
+
+PCA LOADINGS
+------------------------------------------------------------------------------------------
+                                  PC1       PC2       PC3       PC4
+Growth time (days)          -0.741266  0.694229 -0.043602 -0.001796
+Inhibition at 5000 ppm (%)   0.955109  0.271535  0.216833 -0.018748
+Inhibition at 7500 ppm (%)   0.997654  0.155393 -0.081276  0.085252
+Inhibition at 10000 ppm (%)  0.996623  0.100573 -0.158872 -0.068708
+
+EXPERIMENTAL ISOLATE SCORES
+------------------------------------------------------------------------------------------
+Microorganism       PC1       PC2      PC3       PC4         Group
+ Rhizobium sp -0.224350 -1.499530 0.251509 -0.024924 Rhizobium sp.
+Trichoderma 1 -0.587682 -0.762194 0.160472  0.001056 Trichoderma 1
+
+SPEARMAN CORRELATIONS
+------------------------------------------------------------------------------------------
+                             Growth time (days)  Inhibition at 5000 ppm (%)  Inhibition at 7500 ppm (%)  Inhibition at 10000 ppm (%)
+Growth time (days)                     1.000000                   -0.575851                   -0.549984                    -0.630037
+Inhibition at 5000 ppm (%)            -0.575851                    1.000000                    0.938507                     0.888573
+Inhibition at 7500 ppm (%)            -0.549984                    0.938507                    1.000000                     0.945140
+Inhibition at 10000 ppm (%)           -0.630037                    0.888573                    0.945140                     1.000000
+
+SPEARMAN P VALUES
+------------------------------------------------------------------------------------------
+                             Growth time (days)  Inhibition at 5000 ppm (%)  Inhibition at 7500 ppm (%)  Inhibition at 10000 ppm (%)
+Growth time (days)                3.591833e-224                6.995457e-04                1.349574e-03                 1.457206e-04
+Inhibition at 5000 ppm (%)         6.995457e-04                0.000000e+00                6.294262e-15                 2.511575e-11
+Inhibition at 7500 ppm (%)         1.349574e-03                6.294262e-15                0.000000e+00                 1.255474e-15
+Inhibition at 10000 ppm (%)        1.457206e-04                2.511575e-11                1.255474e-15                 0.000000e+00
+
+Interpretive restriction:
+PCA and correlation analyses describe phenotypic structure within the microorganism collection. They do not demonstrate atrazine degradation capacity or causal relationships.

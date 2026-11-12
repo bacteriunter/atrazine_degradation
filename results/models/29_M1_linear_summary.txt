@@ -1,0 +1,31 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:     biodegradation_pct   R-squared:                       0.773
+Model:                            OLS   Adj. R-squared:                  0.733
+Method:                 Least Squares   F-statistic:                     19.42
+Date:                Thu, 01 Oct 2026   Prob (F-statistic):           4.90e-11
+Time:                        12:52:16   Log-Likelihood:                -183.83
+No. Observations:                  48   AIC:                             383.7
+Df Residuals:                      40   BIC:                             398.6
+Df Model:                           7                                         
+Covariance Type:            nonrobust                                         
+================================================================================================
+                                   coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------------------------
+Intercept                       50.3433      6.060      8.308      0.000      38.096      62.590
+C(treatment)[T.RT]             -11.7315      8.570     -1.369      0.179     -29.052       5.588
+C(treatment)[T.T]              -28.2144      8.570     -3.292      0.002     -45.534     -10.894
+C(treatment)[T.Te]             -23.1687      8.570     -2.704      0.010     -40.489      -5.849
+time_days                        0.7009      0.263      2.666      0.011       0.170       1.232
+C(treatment)[T.RT]:time_days     0.1901      0.372      0.511      0.612      -0.561       0.942
+C(treatment)[T.T]:time_days      1.2470      0.372      3.354      0.002       0.496       1.998
+C(treatment)[T.Te]:time_days    -0.6730      0.372     -1.810      0.078      -1.424       0.078
+==============================================================================
+Omnibus:                        4.596   Durbin-Watson:                   0.896
+Prob(Omnibus):                  0.100   Jarque-Bera (JB):                3.771
+Skew:                           0.679   Prob(JB):                        0.152
+Kurtosis:                       3.209   Cond. No.                         190.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

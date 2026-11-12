@@ -1,0 +1,38 @@
+==========================================================================================
+MODULE 4 — FINAL GREENHOUSE RESULTS
+==========================================================================================
+
+FINAL DESCRIPTIVE SUMMARY
+------------------------------------------------------------------------------------------
+                 Response Treatment          Treatment description  n  Mean (%)       SD Tukey group
+  soil_biodegradation_pct         F         Soil + atrazine + bean  3 24.536540 2.878541          cd
+  soil_biodegradation_pct         R               Bean + Rhizobium  3 32.080519 2.731220          bc
+  soil_biodegradation_pct        RT Bean + Rhizobium + Trichoderma  3 43.956872 3.266679          ab
+  soil_biodegradation_pct         T             Bean + Trichoderma  3 56.509960 8.379438           a
+  soil_biodegradation_pct       Tes                Soil + atrazine  3 13.316944 6.492054           d
+global_bioremediation_pct         F         Soil + atrazine + bean  3 24.441741 2.892091            
+global_bioremediation_pct         R               Bean + Rhizobium  3 31.371764 2.704049            
+global_bioremediation_pct        RT Bean + Rhizobium + Trichoderma  3 43.499782 3.230370            
+global_bioremediation_pct         T             Bean + Trichoderma  3 55.855146 8.280543            
+global_bioremediation_pct       Tes                Soil + atrazine  3 13.088377 6.393273            
+
+PLANNED CONTRASTS
+------------------------------------------------------------------------------------------
+                 Response Contrast  Mean difference  CI lower 95%  CI upper 95%  Holm-adjusted p  Significant after Holm
+  soil_biodegradation_pct  F - Tes        11.219597      1.635025     20.804168         0.052240                   False
+  soil_biodegradation_pct    R - F         7.543979     -2.040593     17.128550         0.110010                   False
+  soil_biodegradation_pct    T - F        31.973419     22.388848     41.557991         0.000089                    True
+  soil_biodegradation_pct   RT - F        19.420331      9.835760     29.004903         0.003352                    True
+global_bioremediation_pct  F - Tes        11.353363      1.880840     20.825887         0.046941                    True
+global_bioremediation_pct    R - F         6.930023     -2.542500     16.402547         0.134137                   False
+global_bioremediation_pct    T - F        31.413405     21.940882     40.885929         0.000094                    True
+global_bioremediation_pct   RT - F        19.058041      9.585517     28.530564         0.003521                    True
+
+INTERPRETATION
+------------------------------------------------------------------------------------------
+Soil biodegradation differed among treatments (one-way ANOVA, p < 0.001).
+Trichoderma and the Rhizobium + Trichoderma treatment showed significantly higher soil biodegradation than the uninoculated plant control in the pre-specified Holm-adjusted contrasts.
+Rhizobium alone did not differ significantly from the uninoculated plant control.
+The consortium was not significantly different from Trichoderma in Tukey HSD.
+Treatment B was excluded because atrazine was not added.
+Results are restricted to the greenhouse experiment at 40 days and 1000 ppm nominal initial atrazine concentration.

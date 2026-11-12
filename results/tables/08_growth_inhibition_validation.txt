@@ -1,0 +1,34 @@
+========================================================================
+VALIDACIÓN — BASE 2: CRECIMIENTO / INHIBICIÓN
+========================================================================
+
+Fuente utilizada: base_2.xlsx / Hoja1
+Hoja2 excluida del procesamiento analítico.
+Razón: el usuario confirmó que Hoja1 contiene los datos correctos.
+
+Filas originales Hoja1: 31
+Filas dataset procesado: 31
+Microorganismos vinculados a Base 1: 2
+
+COLUMNAS CMI
+------------------------------------------------------------------------
+CMI: 31/31 valores faltantes
+CMI.1: 31/31 valores faltantes
+
+No se calculó ni imputó CMI.
+
+VALIDACIÓN ALGEBRAICA
+------------------------------------------------------------------------
+% crecimiento + % inhibición = 100 a 5000 ppm: True
+% crecimiento + % inhibición = 100 a 7500 ppm: True
+% crecimiento + % inhibición = 100 a 10000 ppm: True
+
+AISLAMIENTOS VINCULADOS A BASE 1
+------------------------------------------------------------------------
+base1_treatment microorganism  growth_time_days  growth_rate_mm_day  inhibition_pct_5000  inhibition_pct_7500  inhibition_pct_10000
+              R  Rhizobium sp                 4                20.0                  0.0                  0.0                   2.5
+              T Trichoderma 1                 5                16.0                  0.0                  0.0                   0.0
+
+No se realizaron pruebas estadísticas.
+No se calcularon valores de CMI.
+No se utilizaron datos de Hoja2.

@@ -1,0 +1,43 @@
+====================================================================================================
+VALIDACIÓN — BASE 4 / INVERNADERO
+====================================================================================================
+
+Observaciones completas: 18 (esperadas: 18)
+Observaciones analíticas: 15 (esperadas: 15)
+
+OBSERVACIONES POR TRATAMIENTO
+----------------------------------------------------------------------------------------------------
+treatment
+B      3
+F      3
+R      3
+RT     3
+T      3
+Tes    3
+
+Todos los tratamientos tienen n=3: True
+Blancos B: 3
+Observaciones excluidas: 3
+
+MULTIPLICADOR HISTÓRICO DE COLUMNA E
+----------------------------------------------------------------------------------------------------
+Multiplicador x5: 16
+Multiplicador x4: 2
+
+treatment sample_id  source_row  soil_mass_multiplier formula_atrazine_extract_mg
+        B       12a          12                   4.0                      =D12*4
+      Tes       19a          19                   4.0                      =D19*4
+
+RESIDUOS NUMÉRICOS NORMALIZADOS A CERO
+----------------------------------------------------------------------------------------------------
+N: 13
+
+DECISIONES
+----------------------------------------------------------------------------------------------------
+1. B corresponde a blanco sin atrazina añadida.
+2. B se conserva en el dataset completo y se excluye del dataset analítico.
+3. La dosis nominal para R, RT, T, F y Tes es 1000 ppm.
+4. La dosis nominal para B se registra como 0 ppm.
+5. Los multiplicadores x4 de B-12a y Tes-19a se conservan sin reinterpretación.
+6. No se imputaron valores ausentes.
+7. No se realizaron pruebas estadísticas.

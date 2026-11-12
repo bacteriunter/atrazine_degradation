@@ -1,0 +1,3 @@
+Response,n,Residual df,Shapiro-Wilk W,Shapiro-Wilk p,Brown-Forsythe statistic,Brown-Forsythe p,|standardized residual| > 2,|standardized residual| > 3,Maximum |standardized residual|
+soil_biodegradation_pct,15,10,0.968248011667526,0.831313374963812,0.5578015287411964,0.6984948401517781,1,0,2.0231657031443095
+global_bioremediation_pct,15,10,0.9686440523184576,0.8374894381268012,0.5529142596026753,0.7016939187099762,1,0,2.023831419514376

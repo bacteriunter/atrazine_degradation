@@ -1,0 +1,144 @@
+===============================================================================================
+VALIDACIÓN — BACTERIAS Y HONGOS EN PDA
+===============================================================================================
+
+Bacterias procesadas: 90 (esperadas: 90)
+Hongos procesados: 81 (esperados: 81)
+Total: 171 (esperado: 171)
+
+CONTEOS AUSENTES
+-----------------------------------------------------------------------------------------------
+organism_group
+Bacteria    1
+Fungi       0
+
+ESTADO DE UFC ORIGINALES
+-----------------------------------------------------------------------------------------------
+organism_group      cfu_per_ml_status  n
+      Bacteria            exact_match 78
+      Bacteria          missing_count  1
+      Bacteria zero_count_missing_ufc 11
+         Fungi            exact_match 48
+         Fungi          formula_error  9
+         Fungi        zero_consistent 24
+
+ESTRUCTURA
+-----------------------------------------------------------------------------------------------
+organism_group       soil dilution block  n_replicates
+      Bacteria    Capulin    10^-3    B1             3
+      Bacteria    Capulin    10^-3    B2             3
+      Bacteria    Capulin    10^-3    B3             3
+      Bacteria    Capulin    10^-4    B1             3
+      Bacteria    Capulin    10^-4    B2             3
+      Bacteria    Capulin    10^-4    B3             3
+      Bacteria    Capulin    10^-5    B1             3
+      Bacteria    Capulin    10^-5    B2             3
+      Bacteria    Capulin    10^-5    B3             3
+      Bacteria  Santa Ana    10^-3    B1             3
+      Bacteria  Santa Ana    10^-3    B2             3
+      Bacteria  Santa Ana    10^-3    B3             3
+      Bacteria  Santa Ana    10^-4    B1             3
+      Bacteria  Santa Ana    10^-4    B2             3
+      Bacteria  Santa Ana    10^-4    B3             3
+      Bacteria  Santa Ana    10^-5    B1             3
+      Bacteria  Santa Ana    10^-5    B2             3
+      Bacteria  Santa Ana    10^-5    B3             3
+      Bacteria Tepantitla    10^-2    B1             3
+      Bacteria Tepantitla    10^-2    B2             3
+      Bacteria Tepantitla    10^-2    B3             3
+      Bacteria Tepantitla    10^-3    B1             3
+      Bacteria Tepantitla    10^-3    B2             3
+      Bacteria Tepantitla    10^-3    B3             3
+      Bacteria Tepantitla    10^-4    B1             3
+      Bacteria Tepantitla    10^-4    B2             3
+      Bacteria Tepantitla    10^-4    B3             3
+      Bacteria Tepantitla    10^-5    B1             3
+      Bacteria Tepantitla    10^-5    B2             3
+      Bacteria Tepantitla    10^-5    B3             3
+         Fungi    Capulin    10^-3    B1             3
+         Fungi    Capulin    10^-3    B2             3
+         Fungi    Capulin    10^-3    B3             3
+         Fungi    Capulin    10^-4    B1             3
+         Fungi    Capulin    10^-4    B2             3
+         Fungi    Capulin    10^-4    B3             3
+         Fungi    Capulin    10^-5    B1             3
+         Fungi    Capulin    10^-5    B2             3
+         Fungi    Capulin    10^-5    B3             3
+         Fungi  Santa Ana    10^-3    B1             3
+         Fungi  Santa Ana    10^-3    B2             3
+         Fungi  Santa Ana    10^-3    B3             3
+         Fungi  Santa Ana    10^-4    B1             3
+         Fungi  Santa Ana    10^-4    B2             3
+         Fungi  Santa Ana    10^-4    B3             3
+         Fungi  Santa Ana    10^-5    B1             3
+         Fungi  Santa Ana    10^-5    B2             3
+         Fungi  Santa Ana    10^-5    B3             3
+         Fungi Tepantitla    10^-3    B1             3
+         Fungi Tepantitla    10^-3    B2             3
+         Fungi Tepantitla    10^-3    B3             3
+         Fungi Tepantitla    10^-4    B1             3
+         Fungi Tepantitla    10^-4    B2             3
+         Fungi Tepantitla    10^-4    B3             3
+         Fungi Tepantitla    10^-5    B1             3
+         Fungi Tepantitla    10^-5    B2             3
+         Fungi Tepantitla    10^-5    B3             3
+
+REGISTROS QUE REQUIEREN TRAZABILIDAD
+-----------------------------------------------------------------------------------------------
+organism_group       soil dilution block  replicate count_cell cfu_cell  colony_count  cfu_per_ml_reported cfu_formula_original  cfu_per_ml_recalculated      cfu_per_ml_status
+      Bacteria Tepantitla    10^-5    B1          1        B17      C17           0.0                  NaN                 None                 0.000000 zero_count_missing_ufc
+      Bacteria Tepantitla    10^-5    B1          2        B18      C18           0.0                  NaN                 None                 0.000000 zero_count_missing_ufc
+      Bacteria Tepantitla    10^-5    B1          3        B19      C19           0.0                  NaN                 None                 0.000000 zero_count_missing_ufc
+      Bacteria Tepantitla    10^-5    B2          1        D17      E17           0.0                  NaN                 None                 0.000000 zero_count_missing_ufc
+      Bacteria Tepantitla    10^-5    B2          2        D18      E18           0.0                  NaN                 None                 0.000000 zero_count_missing_ufc
+      Bacteria Tepantitla    10^-5    B2          3        D19      E19           0.0                  NaN                 None                 0.000000 zero_count_missing_ufc
+      Bacteria Tepantitla    10^-5    B3          1        F17      G17           0.0                  NaN                 None                 0.000000 zero_count_missing_ufc
+      Bacteria Tepantitla    10^-5    B3          2        F18      G18           0.0                  NaN                 None                 0.000000 zero_count_missing_ufc
+      Bacteria Tepantitla    10^-5    B3          3        F19      G19           0.0                  NaN                 None                 0.000000 zero_count_missing_ufc
+      Bacteria  Santa Ana    10^-4    B1          3         R9       S9           NaN                  NaN                 None                      NaN          missing_count
+      Bacteria  Santa Ana    10^-5    B2          3        T14      U14           0.0                  NaN                 None                 0.000000 zero_count_missing_ufc
+      Bacteria  Santa Ana    10^-5    B3          3        V14      W14           0.0                  NaN                 None                 0.000000 zero_count_missing_ufc
+         Fungi Tepantitla    10^-3    B2          3        D25      E25           0.0             0.000000      =D25*1000/0.842                 0.000000        zero_consistent
+         Fungi Tepantitla    10^-4    B1          2        B29      C29           0.0             0.000000     =B29*10000/0.842                 0.000000        zero_consistent
+         Fungi Tepantitla    10^-4    B2          3        D30      E30           0.0             0.000000     =D30*10000/0.842                 0.000000        zero_consistent
+         Fungi Tepantitla    10^-4    B3          1        F28      G28           0.0             0.000000     =F28*10000/0.842                 0.000000        zero_consistent
+         Fungi Tepantitla    10^-4    B3          2        F29      G29           0.0             0.000000     =F29*10000/0.842                 0.000000        zero_consistent
+         Fungi Tepantitla    10^-4    B3          3        F30      G30           0.0             0.000000     =F30*10000/0.842                 0.000000        zero_consistent
+         Fungi Tepantitla    10^-5    B1          2        B33      C33           0.0             0.000000                    0                 0.000000        zero_consistent
+         Fungi Tepantitla    10^-5    B1          3        B34      C34           0.0             0.000000                    0                 0.000000        zero_consistent
+         Fungi Tepantitla    10^-5    B2          3        D34      E34           0.0             0.000000    =D34*100000/0.842                 0.000000        zero_consistent
+         Fungi Tepantitla    10^-5    B3          2        F33      G33           0.0             0.000000    =F33*100000/0.842                 0.000000        zero_consistent
+         Fungi    Capulin    10^-3    B3          3        N24      O24           0.0             0.000000      =N24*1000/0.851                 0.000000        zero_consistent
+         Fungi    Capulin    10^-4    B2          2        L28      M28           0.0             0.000000     =L28*10000/0.851                 0.000000        zero_consistent
+         Fungi    Capulin    10^-4    B3          1        N27      O27           1.0         11751.881316     =N27+10000/0.851             11750.881316          formula_error
+         Fungi    Capulin    10^-4    B3          2        N28      O28           0.0         11750.881316     =N28+10000/0.851                 0.000000          formula_error
+         Fungi    Capulin    10^-4    B3          3        N29      O29           1.0         11751.881316     =N29+10000/0.851             11750.881316          formula_error
+         Fungi    Capulin    10^-5    B1          2        J33      K33           0.0             0.000000    =J33*100000/0.851                 0.000000        zero_consistent
+         Fungi    Capulin    10^-5    B2          1        L32      M32           1.0        117509.813161    =L32+100000/0.851            117508.813161          formula_error
+         Fungi    Capulin    10^-5    B2          2        L33      M33           1.0        117509.813161    =L33+100000/0.851            117508.813161          formula_error
+         Fungi    Capulin    10^-5    B2          3        L34      M34           0.0        117508.813161    =L34+100000/0.851                 0.000000          formula_error
+         Fungi    Capulin    10^-5    B3          1        N32      O32           0.0             0.000000                    0                 0.000000        zero_consistent
+         Fungi    Capulin    10^-5    B3          2        N33      O33           0.0             0.000000                    0                 0.000000        zero_consistent
+         Fungi    Capulin    10^-5    B3          3        N34      O34           0.0             0.000000                    0                 0.000000        zero_consistent
+         Fungi  Santa Ana    10^-4    B3          1        V27      W27           1.0         10549.523207     =V27+10000/0.948             10548.523207          formula_error
+         Fungi  Santa Ana    10^-4    B3          2        V28      W28           1.0         10549.523207     =V28+10000/0.948             10548.523207          formula_error
+         Fungi  Santa Ana    10^-4    B3          3        V29      W29           2.0         10550.523207     =V29+10000/0.948             21097.046414          formula_error
+         Fungi  Santa Ana    10^-5    B1          2        R32      S32           0.0             0.000000    =R32*100000/0.948                 0.000000        zero_consistent
+         Fungi  Santa Ana    10^-5    B1          3        R33      S33           0.0             0.000000    =R33*100000/0.948                 0.000000        zero_consistent
+         Fungi  Santa Ana    10^-5    B2          1        T31      U31           0.0             0.000000                    0                 0.000000        zero_consistent
+         Fungi  Santa Ana    10^-5    B2          2        T32      U32           0.0             0.000000                    0                 0.000000        zero_consistent
+         Fungi  Santa Ana    10^-5    B2          3        T33      U33           0.0             0.000000                    0                 0.000000        zero_consistent
+         Fungi  Santa Ana    10^-5    B3          1        V31      W31           0.0             0.000000                    0                 0.000000        zero_consistent
+         Fungi  Santa Ana    10^-5    B3          2        V32      W32           0.0             0.000000                    0                 0.000000        zero_consistent
+         Fungi  Santa Ana    10^-5    B3          3        V33      W33           0.0             0.000000                    0                 0.000000        zero_consistent
+
+CRITERIOS
+-----------------------------------------------------------------------------------------------
+1. colony_count es el dato primario.
+2. cfu_per_ml_reported se conserva para trazabilidad.
+3. cfu_per_ml_recalculated es la UFC armonizada/corregida.
+4. Los errores inequívocos de fórmula no se propagan al valor recalculado.
+5. Los ceros de conteo se conservan como cero UFC.
+6. No se imputan conteos ausentes.
+7. Las distintas diluciones no se consideran réplicas biológicas independientes.
+8. No se realizaron pruebas estadísticas.

@@ -1,0 +1,11 @@
+CHECKPOINT 26 — FIGURAS MICROBIOLÓGICAS FINALES
+
+1. Cada círculo representa una caja Petri (réplica técnica).
+2. Cada diamante representa la mediana de las cajas disponibles para suelo y dilución.
+3. El color identifica exclusivamente el suelo.
+4. El eje Y corresponde a log10(CFU/mL + 1).
+5. La transformación se utiliza exclusivamente para visualización.
+6. Los valores originales de CFU/mL no fueron modificados.
+7. Las diluciones se representan como categorías.
+8. B1-B3 y las cajas Petri no se consideran réplicas biológicas independientes.
+9. No se realizaron pruebas inferenciales.

@@ -1,0 +1,93 @@
+==============================================================================================================
+INVENTARIO DE DATASETS PROCESADOS
+==============================================================================================================
+
+                         dataset                                 file  exists  rows  columns                       role
+                 lab_degradation                  lab_degradation.csv    True    60       16       primary_experimental
+        lab_degradation_analysis         lab_degradation_analysis.csv    True    48       16         primary_analytical
+               growth_inhibition                growth_inhibition.csv    True    31       21          microbial_context
+growth_inhibition_base1_isolates growth_inhibition_base1_isolates.csv    True     2       21 candidate_covariate_source
+           soil_characterization            soil_characterization.csv    True    63       10      environmental_context
+   soil_characterization_capulin    capulin_soil_characterization.csv    True    21       10       experimental_context
+                   pda_isolation       pda_isolation_observations.csv    True    54        6          isolation_context
+              pdab1_microbiology               pdab1_microbiology.csv    True   243       19  soil_microbiology_context
+                    pda_bacteria               pdab1_pda_bacteria.csv    True    90       18  soil_microbiology_context
+                       pda_fungi                  pdab1_pda_fungi.csv    True    81       18  soil_microbiology_context
+          greenhouse_degradation           greenhouse_degradation.csv    True    18       33     secondary_experimental
+ greenhouse_degradation_analysis  greenhouse_degradation_analysis.csv    True    15       33       secondary_analytical
+
+==============================================================================================================
+VARIABLES QUE REQUIEREN REVISIÓN
+==============================================================================================================
+
+                         dataset                        variable   dtype  non_missing  unique_values
+                 lab_degradation                     sample_code  object           60             20
+                 lab_degradation                     hplc_500ppm float64           60             60
+                 lab_degradation                  mg_per_5g_soil float64           60             60
+                 lab_degradation                 mg_per_50g_soil float64           60             60
+                 lab_degradation            mg_degraded_original float64           60             60
+                 lab_degradation            removal_pct_original float64           60             60
+                 lab_degradation                    retained_pct float64           60             60
+                 lab_degradation                     mg_retained float64           60             60
+                 lab_degradation                     mg_degraded float64           60             60
+        lab_degradation_analysis                     sample_code  object           48             16
+        lab_degradation_analysis                     hplc_500ppm float64           48             48
+        lab_degradation_analysis                  mg_per_5g_soil float64           48             48
+        lab_degradation_analysis                 mg_per_50g_soil float64           48             48
+        lab_degradation_analysis            mg_degraded_original float64           48             48
+        lab_degradation_analysis            removal_pct_original float64           48             48
+        lab_degradation_analysis                    retained_pct float64           48             48
+        lab_degradation_analysis                     mg_retained float64           48             48
+        lab_degradation_analysis                     mg_degraded float64           48             48
+               growth_inhibition                microorganism_id  object           31             31
+               growth_inhibition                   microorganism  object           31             31
+               growth_inhibition             control_diameter_mm   int64           31              1
+               growth_inhibition              reference_original  object           11              9
+               growth_inhibition                 linked_to_base1    bool           31              2
+               growth_inhibition                 base1_treatment  object            2              2
+growth_inhibition_base1_isolates                microorganism_id  object            2              2
+growth_inhibition_base1_isolates                   microorganism  object            2              2
+growth_inhibition_base1_isolates             control_diameter_mm   int64            2              1
+growth_inhibition_base1_isolates              reference_original  object            2              2
+growth_inhibition_base1_isolates                 linked_to_base1    bool            2              1
+growth_inhibition_base1_isolates                 base1_treatment  object            2              2
+           soil_characterization                  original_label  object           63             21
+           soil_characterization                   variable_code  object           63              7
+           soil_characterization                        variable  object           63              7
+           soil_characterization            variable_description  object           63              7
+           soil_characterization                            unit  object           63              5
+           soil_characterization                           value float64           63             58
+           soil_characterization used_in_degradation_experiments    bool           63              2
+   soil_characterization_capulin                  original_label  object           21              7
+   soil_characterization_capulin                   variable_code  object           21              7
+   soil_characterization_capulin                        variable  object           21              7
+   soil_characterization_capulin            variable_description  object           21              7
+   soil_characterization_capulin                            unit  object           21              5
+   soil_characterization_capulin                           value float64           21             20
+   soil_characterization_capulin used_in_degradation_experiments    bool           21              1
+                   pda_isolation                          time_h   int64           54              3
+                   pda_isolation             original_soil_label  object           54              3
+                   pda_isolation                     observation  object           36             25
+                   pda_isolation                 has_observation    bool           54              2
+              pdab1_microbiology                           sheet  object          243              3
+              pdab1_microbiology            cfu_formula_original  object          240            125
+                    pda_bacteria            cfu_formula_original  object           78             78
+                       pda_fungi            cfu_formula_original  object           81             71
+
+==============================================================================================================
+CLASES DE VARIABLES
+==============================================================================================================
+
+variable_class
+review_required                   52
+derived_measurement               35
+experimental_design               32
+candidate_contextual_predictor    30
+identifier_or_traceability        28
+traceability                      18
+analysis_control                   8
+primary_measurement                5
+experimental_condition             4
+recorded_measurement               4
+experimental_parameter             3
+candidate_response                 2

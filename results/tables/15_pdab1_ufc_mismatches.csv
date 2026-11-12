@@ -1,0 +1,8 @@
+sheet,soil,dilution,block,replicate,count_cell,ufc_cell,colony_count,ufc_reported,ufc_formula_original,ufc_recalculated,ufc_difference
+Actinomicetos,Capulin,10^-4,B1,1,I6,J6,17.0,2350176.2632197416,=I4*10000/0.851,199764.98237367804,2150411.2808460635
+Actinomicetos,Capulin,10^-4,B1,2,I7,J7,20.0,235017.0,235017,235017.62632197415,-0.6263219741522335
+Actinomicetos,Capulin,10^-4,B1,3,I8,J8,15.0,199764.98237367804,=I6*10000/0.851,176263.21974148063,23501.76263219741
+Actinomicetos,Capulin,10^-5,B1,3,I12,J12,7.0,831353.919239905,=I12*100000/0.842,822561.6921269095,8792.22711299546
+Extracto de suelo,Santa Ana,10^-5,B2,1,R12,S12,0.0,,,0.0,
+Extracto de suelo,Santa Ana,10^-5,B2,2,R13,S13,0.0,,,0.0,
+Extracto de suelo,Santa Ana,10^-5,B2,3,R14,S14,0.0,,,0.0,

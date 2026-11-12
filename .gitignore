@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+
+# Temporary files
+*.tmp
+*.bak
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model temporary objects
+*.pkl
+*.joblib
+
+# Windows metadata in WSL
+*:Zone.Identifier
+
+# Editor settings
+.vscode/
+.idea/
+
+# Additional Python environments
+venv/
+env/
+
+# Temporary Office files
+~$*.xlsx
+~$*.xls
+~$*.docx
+
+# Local repository preparation backups
+.gitignore.pre_github.bak

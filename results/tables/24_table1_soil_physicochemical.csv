@@ -1,0 +1,22 @@
+soil,variable_code,variable_description,unit,n_subsamples,mean,sd,minimum,maximum
+Capulin,CIC,Capacidad de intercambio catiónico,cmol(+)/kg,3,29.349999999999998,0.010000000000000675,29.34,29.36
+Capulin,CO,Carbono orgánico,%,3,2.8666666666666667,0.030550504633038877,2.84,2.9
+Capulin,D,Densidad,g/cm3,3,2.376666666666667,0.04618802153517014,2.35,2.43
+Capulin,H,Humedad gravimétrica,% w/w,3,14.729999999999999,0.33045423283716613,14.35,14.95
+Capulin,MO,Materia orgánica,%,3,4.94,0.01000000000000012,4.93,4.95
+Capulin,N,Nitrógeno,%,3,0.19000000000000003,0.010000000000000009,0.18,0.2
+Capulin,pH,pH,dimensionless,3,6.846666666666667,0.3066485501895178,6.65,7.2
+Santa Ana,CIC,Capacidad de intercambio catiónico,cmol(+)/kg,3,25.459999999999997,0.10535653752852729,25.36,25.57
+Santa Ana,CO,Carbono orgánico,%,3,4.077,0.011269427669584546,4.07,4.09
+Santa Ana,D,Densidad,g/cm3,3,2.3533333333333335,0.18717193521821957,2.14,2.49
+Santa Ana,H,Humedad gravimétrica,% w/w,3,11.85,0.050000000000000266,11.8,11.9
+Santa Ana,MO,Materia orgánica,%,3,4.046666666666666,0.023094010767584924,4.02,4.06
+Santa Ana,N,Nitrógeno,%,3,0.29,0.02645751311064587,0.26,0.31
+Santa Ana,pH,pH,dimensionless,3,8.040000000000001,0.08185352771872542,7.97,8.13
+Tepantitla,CIC,Capacidad de intercambio catiónico,cmol(+)/kg,3,59.629999999999995,0.02645751311064635,59.61,59.66
+Tepantitla,CO,Carbono orgánico,%,3,3.36,0.020000000000000018,3.34,3.38
+Tepantitla,D,Densidad,g/cm3,3,2.2933333333333334,0.2950141239556731,2.0,2.59
+Tepantitla,H,Humedad gravimétrica,% w/w,3,15.473333333333334,0.525388744962559,14.91,15.95
+Tepantitla,MO,Materia orgánica,%,3,5.783333333333334,0.005773502691896071,5.78,5.79
+Tepantitla,N,Nitrógeno,%,3,0.24766666666666667,0.0030550504633038923,0.245,0.251
+Tepantitla,pH,pH,dimensionless,3,6.413333333333334,0.205507501890645,6.28,6.65

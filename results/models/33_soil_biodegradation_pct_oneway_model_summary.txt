@@ -1,0 +1,28 @@
+                               OLS Regression Results                              
+===================================================================================
+Dep. Variable:     soil_biodegradation_pct   R-squared:                       0.924
+Model:                                 OLS   Adj. R-squared:                  0.894
+Method:                      Least Squares   F-statistic:                     30.45
+Date:                     Thu, 01 Oct 2026   Prob (F-statistic):           1.41e-05
+Time:                             13:06:09   Log-Likelihood:                -43.169
+No. Observations:                       15   AIC:                             96.34
+Df Residuals:                           10   BIC:                             99.88
+Df Model:                                4                                         
+Covariance Type:                 nonrobust                                         
+=======================================================================================
+                          coef    std err          t      P>|t|      [0.025      0.975]
+---------------------------------------------------------------------------------------
+Intercept              24.5365      3.042      8.067      0.000      17.759      31.314
+C(treatment)[T.R]       7.5440      4.302      1.754      0.110      -2.041      17.129
+C(treatment)[T.RT]     19.4203      4.302      4.515      0.001       9.836      29.005
+C(treatment)[T.T]      31.9734      4.302      7.433      0.000      22.389      41.558
+C(treatment)[T.Tes]   -11.2196      4.302     -2.608      0.026     -20.804      -1.635
+==============================================================================
+Omnibus:                        0.625   Durbin-Watson:                   2.951
+Prob(Omnibus):                  0.732   Jarque-Bera (JB):                0.372
+Skew:                          -0.356   Prob(JB):                        0.830
+Kurtosis:                       2.704   Cond. No.                         5.83
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

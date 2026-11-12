@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the information below."
+type: software
+title: "Atrazine Biodegradation: Experimental Data and Reproducible Statistical Analyses"
+authors:
+  - family-names: "Islas-Pelcastre"
+    given-names: "Margarita"
+  - family-names: "Delgado-González"
+    given-names: "Cristián Raziel"
+date-released: 2026-11-12
+version: "1.0.0"
+abstract: "Experimental datasets and reproducible Python analyses of atrazine biodegradation, microbial responses, soil characterization, and greenhouse experiments."
+keywords:
+  - atrazine
+  - biodegradation
+  - bioremediation
+  - microbial interactions
+  - statistical modelling
+license: MIT

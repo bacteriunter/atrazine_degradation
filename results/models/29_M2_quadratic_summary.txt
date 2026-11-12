@@ -1,0 +1,37 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:     biodegradation_pct   R-squared:                       0.934
+Model:                            OLS   Adj. R-squared:                  0.914
+Method:                 Least Squares   F-statistic:                     46.57
+Date:                Thu, 01 Oct 2026   Prob (F-statistic):           6.16e-18
+Time:                        12:52:16   Log-Likelihood:                -154.03
+No. Observations:                  48   AIC:                             332.1
+Df Residuals:                      36   BIC:                             354.5
+Df Model:                          11                                         
+Covariance Type:            nonrobust                                         
+========================================================================================================
+                                           coef    std err          t      P>|t|      [0.025      0.975]
+--------------------------------------------------------------------------------------------------------
+Intercept                               69.4513      6.452     10.764      0.000      56.366      82.536
+C(treatment)[T.RT]                      -3.4881      9.124     -0.382      0.705     -21.993      15.017
+C(treatment)[T.T]                      -86.3791      9.124     -9.467      0.000    -104.884     -67.874
+C(treatment)[T.Te]                     -39.6410      9.124     -4.344      0.000     -58.146     -21.136
+time_days                               -1.9249      0.765     -2.515      0.017      -3.477      -0.373
+C(treatment)[T.RT]:time_days            -0.9427      1.082     -0.871      0.390      -3.138       1.252
+C(treatment)[T.T]:time_days              9.2399      1.082      8.537      0.000       7.045      11.435
+C(treatment)[T.Te]:time_days             1.5906      1.082      1.470      0.150      -0.605       3.786
+I(time_days ** 2)                        0.0567      0.016      3.498      0.001       0.024       0.090
+C(treatment)[T.RT]:I(time_days ** 2)     0.0245      0.023      1.067      0.293      -0.022       0.071
+C(treatment)[T.T]:I(time_days ** 2)     -0.1726      0.023     -7.529      0.000      -0.219      -0.126
+C(treatment)[T.Te]:I(time_days ** 2)    -0.0489      0.023     -2.132      0.040      -0.095      -0.002
+==============================================================================
+Omnibus:                        5.764   Durbin-Watson:                   1.435
+Prob(Omnibus):                  0.056   Jarque-Bera (JB):                4.595
+Skew:                          -0.638   Prob(JB):                        0.101
+Kurtosis:                       3.818   Cond. No.                     1.29e+04
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 1.29e+04. This might indicate that there are
+strong multicollinearity or other numerical problems.

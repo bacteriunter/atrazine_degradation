@@ -1,0 +1,168 @@
+====================================================================================================
+CHECKPOINT 23 — CARACTERIZACIÓN DESCRIPTIVA DE SUELOS
+====================================================================================================
+
+1. CARACTERIZACIÓN FISICOQUÍMICA
+----------------------------------------------------------------------------------------------------
+Observaciones originales: 63
+Filas resumen: 21
+
+      soil variable_code                 variable          unit  n      mean       sd  median  minimum  maximum
+   Capulin           CIC cation_exchange_capacity    cmol(+)/kg  3 29.350000 0.010000  29.350   29.340   29.360
+   Capulin            CO           organic_carbon             %  3  2.866667 0.030551   2.860    2.840    2.900
+   Capulin             D                  density         g/cm3  3  2.376667 0.046188   2.350    2.350    2.430
+   Capulin             H     gravimetric_moisture         % w/w  3 14.730000 0.330454  14.890   14.350   14.950
+   Capulin            MO           organic_matter             %  3  4.940000 0.010000   4.940    4.930    4.950
+   Capulin             N                 nitrogen             %  3  0.190000 0.010000   0.190    0.180    0.200
+   Capulin            pH                       pH dimensionless  3  6.846667 0.306649   6.690    6.650    7.200
+ Santa Ana           CIC cation_exchange_capacity    cmol(+)/kg  3 25.460000 0.105357  25.450   25.360   25.570
+ Santa Ana            CO           organic_carbon             %  3  4.077000 0.011269   4.071    4.070    4.090
+ Santa Ana             D                  density         g/cm3  3  2.353333 0.187172   2.430    2.140    2.490
+ Santa Ana             H     gravimetric_moisture         % w/w  3 11.850000 0.050000  11.850   11.800   11.900
+ Santa Ana            MO           organic_matter             %  3  4.046667 0.023094   4.060    4.020    4.060
+ Santa Ana             N                 nitrogen             %  3  0.290000 0.026458   0.300    0.260    0.310
+ Santa Ana            pH                       pH dimensionless  3  8.040000 0.081854   8.020    7.970    8.130
+Tepantitla           CIC cation_exchange_capacity    cmol(+)/kg  3 59.630000 0.026458  59.620   59.610   59.660
+Tepantitla            CO           organic_carbon             %  3  3.360000 0.020000   3.360    3.340    3.380
+Tepantitla             D                  density         g/cm3  3  2.293333 0.295014   2.290    2.000    2.590
+Tepantitla             H     gravimetric_moisture         % w/w  3 15.473333 0.525389  15.560   14.910   15.950
+Tepantitla            MO           organic_matter             %  3  5.783333 0.005774   5.780    5.780    5.790
+Tepantitla             N                 nitrogen             %  3  0.247667 0.003055   0.247    0.245    0.251
+Tepantitla            pH                       pH dimensionless  3  6.413333 0.205508   6.310    6.280    6.650
+
+2. BACTERIAS EN PDA — RESUMEN POR DILUCIÓN
+----------------------------------------------------------------------------------------------------
+Observaciones: 90
+
+      soil  dilution_exponent dilution  n         mean           sd       median       minimum      maximum
+   Capulin                  3    10^-3  9 1.540671e+05 4.901133e+04 1.562867e+05  96357.226792 2.350176e+05
+   Capulin                  4    10^-4  9 1.181616e+06 4.445621e+05 1.316099e+06 528789.659224 1.762632e+06
+   Capulin                  5    10^-5  9 3.956130e+06 2.752065e+06 4.230317e+06 705052.878966 7.403055e+06
+ Santa Ana                  3    10^-3  9 9.962494e+04 4.175707e+04 1.149789e+05  35864.978903 1.402954e+05
+ Santa Ana                  4    10^-4  8 4.997363e+05 2.284736e+05 4.905063e+05 137130.801688 9.493671e+05
+ Santa Ana                  5    10^-5  9 4.453821e+05 3.409058e+05 4.219409e+05      0.000000 9.493671e+05
+Tepantitla                  2    10^-2  9 1.778833e+04 2.394355e+03 1.805226e+04  13776.722090 2.054632e+04
+Tepantitla                  3    10^-3  9 5.001320e+04 1.375372e+04 5.106888e+04  27315.914489 7.957245e+04
+Tepantitla                  4    10^-4  9 9.369227e+04 3.822884e+04 8.313539e+04  35629.453682 1.543943e+05
+Tepantitla                  5    10^-5  9 0.000000e+00 0.000000e+00 0.000000e+00      0.000000 0.000000e+00
+
+3. HONGOS EN PDA — RESUMEN POR DILUCIÓN
+----------------------------------------------------------------------------------------------------
+Observaciones: 81
+
+      soil  dilution_exponent dilution  n         mean           sd        median      minimum       maximum
+   Capulin                  3    10^-3  9  1566.784175   830.912786   1175.088132     0.000000   2350.176263
+   Capulin                  4    10^-4  9  9139.574357  5181.651608  11750.881316     0.000000  11750.881316
+   Capulin                  5    10^-5  9 52226.139183 61932.582455      0.000000     0.000000 117508.813161
+ Santa Ana                  3    10^-3  9  1875.293015   465.146152   2109.704641  1054.852321   2109.704641
+ Santa Ana                  4    10^-4  9 17580.872011  7458.932291  21097.046414 10548.523207  31645.569620
+ Santa Ana                  5    10^-5  9 11720.581341 35161.744023      0.000000     0.000000 105485.232068
+Tepantitla                  3    10^-3  9  2243.335973  1251.891394   2375.296912     0.000000   3562.945368
+Tepantitla                  4    10^-4  9  5278.437582  6259.456968      0.000000     0.000000  11876.484561
+Tepantitla                  5    10^-5  9 65980.469781 62594.569679 118764.845606     0.000000 118764.845606
+
+4. OTROS GRUPOS/MEDIOS — RESUMEN POR DILUCIÓN
+----------------------------------------------------------------------------------------------------
+Observaciones: 243
+
+            sheet   microbial_group       soil  dilution_exponent dilution  n         mean            sd       median      minimum      maximum
+    Actinomicetos     Actinomicetos    Capulin                  3    10^-3  9 2.634809e+05  44536.374159 2.514689e+05 1.985899e+05 3.525264e+05
+    Actinomicetos     Actinomicetos    Capulin                  4    10^-4  9 2.467685e+05  72198.623546 2.350176e+05 1.762632e+05 3.407756e+05
+    Actinomicetos     Actinomicetos    Capulin                  5    10^-5  9 4.569787e+05 189881.702210 3.525264e+05 2.350176e+05 8.225617e+05
+    Actinomicetos     Actinomicetos  Santa Ana                  3    10^-3  9 1.129864e+05  13928.888972 1.160338e+05 8.966245e+04 1.276371e+05
+    Actinomicetos     Actinomicetos  Santa Ana                  4    10^-4  9 1.312705e+05  55092.966301 1.054852e+05 9.493671e+04 2.531646e+05
+    Actinomicetos     Actinomicetos  Santa Ana                  5    10^-5  9 2.930145e+05 147092.128434 3.164557e+05 1.054852e+05 5.274262e+05
+    Actinomicetos     Actinomicetos Tepantitla                  3    10^-3  9 2.141726e+05  65328.762184 2.114014e+05 1.389549e+05 3.052257e+05
+    Actinomicetos     Actinomicetos Tepantitla                  4    10^-4  9 4.024809e+05 105968.003280 3.919240e+05 2.494062e+05 5.344418e+05
+    Actinomicetos     Actinomicetos Tepantitla                  5    10^-5  9 1.609923e+06 336500.395883 1.543943e+06 1.187648e+06 2.375297e+06
+Extracto de suelo Extracto de suelo    Capulin                  3    10^-3  9 4.896201e+04   8267.477838 4.582844e+04 4.112808e+04 6.345476e+04
+Extracto de suelo Extracto de suelo    Capulin                  4    10^-4  9 1.984593e+05  59757.721513 1.997650e+05 1.057579e+05 2.702703e+05
+Extracto de suelo Extracto de suelo    Capulin                  5    10^-5  9 3.394699e+05 272080.767518 3.525264e+05 0.000000e+00 8.225617e+05
+Extracto de suelo Extracto de suelo  Santa Ana                  3    10^-3  9 5.309423e+04  10898.722742 5.379747e+04 3.481013e+04 6.962025e+04
+Extracto de suelo Extracto de suelo  Santa Ana                  4    10^-4  9 1.593999e+05  57400.941341 1.476793e+05 1.054852e+05 2.531646e+05
+Extracto de suelo Extracto de suelo  Santa Ana                  5    10^-5  9 0.000000e+00      0.000000 0.000000e+00 0.000000e+00 0.000000e+00
+Extracto de suelo Extracto de suelo Tepantitla                  3    10^-3  9 3.932436e+04   8896.359879 3.919240e+04 2.494062e+04 5.344418e+04
+Extracto de suelo Extracto de suelo Tepantitla                  4    10^-4  9 2.388493e+05  56474.040450 2.375297e+05 1.425178e+05 3.444181e+05
+Extracto de suelo Extracto de suelo Tepantitla                  5    10^-5  9 2.507258e+05 261851.871641 2.375297e+05 0.000000e+00 7.125891e+05
+  PDA acidificado   PDA acidificado    Capulin                  3    10^-3  9 6.267137e+03   2692.465156 5.875441e+03 3.525264e+03 1.057579e+04
+  PDA acidificado   PDA acidificado    Capulin                  4    10^-4  9 3.916960e+04  24927.383591 2.350176e+04 1.175088e+04 8.225617e+04
+  PDA acidificado   PDA acidificado    Capulin                  5    10^-5  9 5.222614e+04  61932.582455 0.000000e+00 0.000000e+00 1.175088e+05
+  PDA acidificado   PDA acidificado  Santa Ana                  3    10^-3  9 2.812940e+03   1179.360748 3.164557e+03 1.054852e+03 5.274262e+03
+  PDA acidificado   PDA acidificado  Santa Ana                  4    10^-4  9 1.758087e+04  12919.249698 1.054852e+04 0.000000e+00 4.219409e+04
+  PDA acidificado   PDA acidificado  Santa Ana                  5    10^-5  9 3.516174e+04  52742.616034 0.000000e+00 0.000000e+00 1.054852e+05
+  PDA acidificado   PDA acidificado Tepantitla                  3    10^-3  9 8.313539e+03   2221.886809 7.125891e+03 4.750594e+03 1.187648e+04
+  PDA acidificado   PDA acidificado Tepantitla                  4    10^-4  9 2.507258e+04  28752.650527 2.375297e+04 0.000000e+00 8.313539e+04
+  PDA acidificado   PDA acidificado Tepantitla                  5    10^-5  9 1.055688e+05 125189.139357 1.187648e+05 0.000000e+00 3.562945e+05
+
+5. CONTROL DE ESTRUCTURA
+----------------------------------------------------------------------------------------------------
+Bacterias PDA:
+soil        dilution  block
+Capulin     10^-3     B1       3
+                      B2       3
+                      B3       3
+            10^-4     B1       3
+                      B2       3
+                      B3       3
+            10^-5     B1       3
+                      B2       3
+                      B3       3
+Santa Ana   10^-3     B1       3
+                      B2       3
+                      B3       3
+            10^-4     B1       3
+                      B2       3
+                      B3       3
+            10^-5     B1       3
+                      B2       3
+                      B3       3
+Tepantitla  10^-2     B1       3
+                      B2       3
+                      B3       3
+            10^-3     B1       3
+                      B2       3
+                      B3       3
+            10^-4     B1       3
+                      B2       3
+                      B3       3
+            10^-5     B1       3
+                      B2       3
+                      B3       3
+
+Hongos PDA:
+soil        dilution  block
+Capulin     10^-3     B1       3
+                      B2       3
+                      B3       3
+            10^-4     B1       3
+                      B2       3
+                      B3       3
+            10^-5     B1       3
+                      B2       3
+                      B3       3
+Santa Ana   10^-3     B1       3
+                      B2       3
+                      B3       3
+            10^-4     B1       3
+                      B2       3
+                      B3       3
+            10^-5     B1       3
+                      B2       3
+                      B3       3
+Tepantitla  10^-3     B1       3
+                      B2       3
+                      B3       3
+            10^-4     B1       3
+                      B2       3
+                      B3       3
+            10^-5     B1       3
+                      B2       3
+                      B3       3
+
+CRITERIOS DEL CHECKPOINT
+----------------------------------------------------------------------------------------------------
+1. Las diluciones se mantienen separadas.
+2. No se promedian diluciones entre sí.
+3. Se utilizan CFU/mL recalculadas.
+4. Los valores ausentes no se imputan.
+5. No se realizaron pruebas inferenciales.

@@ -1,0 +1,55 @@
+time_h,dilution,soil,original_soil_label,observation,has_observation,bacterial_growth,fungal_growth,overall_growth
+24,1,Tepantitla,S.Tepantitla,incontable de colonias de baterias en las 3 cajas,True,present,not_determined,present
+24,1,Capulin,S. Capulin,sin crecimiento,True,not_determined,not_determined,absent
+24,1,Santa Ana,S. Herbicida,crecimiento  de colonias de bacterias,True,present,not_determined,present
+24,2,Tepantitla,S.Tepantitla,incontable de colonias de baterias en las 3 cajas,True,present,not_determined,present
+24,2,Capulin,S. Capulin,sin crecimiento,True,not_determined,not_determined,absent
+24,2,Santa Ana,S. Herbicida,sin crecimiento,True,not_determined,not_determined,absent
+24,3,Tepantitla,S.Tepantitla,crecimiento moderado de colonias de bacterias,True,present,not_determined,present
+24,3,Capulin,S. Capulin,crecimiento en 1 caja de colonias de bacterias,True,present,not_determined,present
+24,3,Santa Ana,S. Herbicida,crecimiento  de colonias de bacterias en 1 caja  y de hongos en forma de hinfas en diferentes direcciones de color blanco,True,present,present,present
+24,4,Tepantitla,S.Tepantitla,crecimiento escaso de colonias de bacterias,True,present,not_determined,present
+24,4,Capulin,S. Capulin,sin crecimiento,True,not_determined,not_determined,absent
+24,4,Santa Ana,S. Herbicida,crecimiento en 8 colonias de bacterias  en 1 caja,True,present,not_determined,present
+24,5,Tepantitla,S.Tepantitla,crecimiento de 1 colonia de baterias en 2 cajas,True,present,not_determined,present
+24,5,Capulin,S. Capulin,sin crecimiento,True,not_determined,not_determined,absent
+24,5,Santa Ana,S. Herbicida,sin crecimiento,True,not_determined,not_determined,absent
+24,6,Tepantitla,S.Tepantitla,crecimiento de 1 colonia de bateria en 1 cajas,True,present,not_determined,present
+24,6,Capulin,S. Capulin,sin crecimiento,True,not_determined,not_determined,absent
+24,6,Santa Ana,S. Herbicida,sin crecimiento,True,not_determined,not_determined,absent
+48,1,Tepantitla,S.Tepantitla,"Crecimiento abundante en las tres cajas, de bacterias y  hogos con hifas agrupadas en micelio con coloración café claro en la base de la formación del hongo, el crecimiento en en todas direcciones",True,present,present,present
+48,1,Capulin,S. Capulin,sin crecimiento,True,not_determined,not_determined,absent
+48,1,Santa Ana,S. Herbicida,"Crecimiento en una caja de hongos filamentosos, las hinfas son blancas y delagadas, se observa unos pequeños puntos negros en la superficoe de las hinfas, las hinfas crecen en todos los planos de la caja",True,not_determined,present,present
+48,2,Tepantitla,S.Tepantitla,"crecimiento moderado en las tres cajas, de bacterias y  hogos con hinfas agrupadas en micelio , el crecimiento en  todas direcciones",True,present,present,present
+48,2,Capulin,S. Capulin,ligero crecimiento en las 3 cajas de bacterias,True,present,not_determined,present
+48,2,Santa Ana,S. Herbicida,cremiento apenas perceptible de bacterias,True,present,not_determined,present
+48,3,Tepantitla,S.Tepantitla,"crecimiento de 2 hongos en 2 cajas  y uno en otra caja, el crecimiento de las  hinfas es moderado pero en  todas direcciones",True,not_determined,present,present
+48,3,Capulin,S. Capulin,"crecimiento moderado de bacterias en una caja, liqero en otra y sin crecimiento en la tercera",True,present,not_determined,present
+48,3,Santa Ana,S. Herbicida,"crecimiento en una caja de hongos filamentosos, las hinfas son blancas y robustas con dirección en un mismos plano y tambien crecimiento de colonas de bacterias",True,present,present,present
+48,4,Tepantitla,S.Tepantitla,"No se aprecie crecimiento de hogos , pero si de bacterias",True,present,absent,present
+48,4,Capulin,S. Capulin,crecimiento minimo perceptible en 2 cajas,True,not_determined,not_determined,present
+48,4,Santa Ana,S. Herbicida,"crecimiento moderado de bacterias y hongos filamentosos,en una caja, las hinfas estan agrupadas  de forma independiente",True,present,present,present
+48,5,Tepantitla,S.Tepantitla,"sin crecimiento de hongos, pero si hay bacterias en 2 cajas",True,present,absent,present
+48,5,Capulin,S. Capulin,crecimiento de 2 colonias de baterias en una cja,True,present,not_determined,present
+48,5,Santa Ana,S. Herbicida,sin crecimiento,True,not_determined,not_determined,absent
+48,6,Tepantitla,S.Tepantitla,crecimiento de bacterias en una solo caja,True,present,not_determined,present
+48,6,Capulin,S. Capulin,no se aprecia crecimiento alguno,True,not_determined,not_determined,absent
+48,6,Santa Ana,S. Herbicida,sin crecimiento,True,not_determined,not_determined,absent
+72,1,Tepantitla,S.Tepantitla,,False,not_determined,not_determined,not_determined
+72,1,Capulin,S. Capulin,,False,not_determined,not_determined,not_determined
+72,1,Santa Ana,S. Herbicida,,False,not_determined,not_determined,not_determined
+72,2,Tepantitla,S.Tepantitla,,False,not_determined,not_determined,not_determined
+72,2,Capulin,S. Capulin,,False,not_determined,not_determined,not_determined
+72,2,Santa Ana,S. Herbicida,,False,not_determined,not_determined,not_determined
+72,3,Tepantitla,S.Tepantitla,,False,not_determined,not_determined,not_determined
+72,3,Capulin,S. Capulin,,False,not_determined,not_determined,not_determined
+72,3,Santa Ana,S. Herbicida,,False,not_determined,not_determined,not_determined
+72,4,Tepantitla,S.Tepantitla,,False,not_determined,not_determined,not_determined
+72,4,Capulin,S. Capulin,,False,not_determined,not_determined,not_determined
+72,4,Santa Ana,S. Herbicida,,False,not_determined,not_determined,not_determined
+72,5,Tepantitla,S.Tepantitla,,False,not_determined,not_determined,not_determined
+72,5,Capulin,S. Capulin,,False,not_determined,not_determined,not_determined
+72,5,Santa Ana,S. Herbicida,,False,not_determined,not_determined,not_determined
+72,6,Tepantitla,S.Tepantitla,,False,not_determined,not_determined,not_determined
+72,6,Capulin,S. Capulin,,False,not_determined,not_determined,not_determined
+72,6,Santa Ana,S. Herbicida,,False,not_determined,not_determined,not_determined

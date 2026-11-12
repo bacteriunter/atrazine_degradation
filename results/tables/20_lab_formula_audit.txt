@@ -1,0 +1,203 @@
+==============================================================================================================
+AUDITORÍA ALGEBRAICA — BASE 1 / LABORATORIO
+==============================================================================================================
+
+ARCHIVO
+--------------------------------------------------------------------------------------------------------------
+/home/bacte/atrazine_degradation/data/raw/base_1.xlsx
+
+HOJAS
+--------------------------------------------------------------------------------------------------------------
+Hoja1: 62 filas x 11 columnas
+
+==============================================================================================================
+HOJA: Hoja1
+==============================================================================================================
+
+FILA 1 / ENCABEZADOS
+--------------------------------------------------------------------------------------------------------------
+A1: 'Muestra'
+B1: '500 ppm'
+C1: 'mg/5g suelo'
+D1: '10mg/50 suelo'
+E1: 'mg degradados'
+F1: '% remosión '
+G1: '% retenido'
+H1: 'mg reteni'
+I1: 'mg degrada'
+J1: 'Muestra'
+K1: '% biodegra '
+
+FÓRMULAS DETECTADAS
+--------------------------------------------------------------------------------------------------------------
+
+Total de fórmulas: 0
+
+Fórmulas por columna:
+
+PRIMERAS 12 FILAS — VALOR Y CONTENIDO ORIGINAL
+--------------------------------------------------------------------------------------------------------------
+
+FILA 1
+  A1: stored='Muestra'; original='Muestra'
+  B1: stored='500 ppm'; original='500 ppm'
+  C1: stored='mg/5g suelo'; original='mg/5g suelo'
+  D1: stored='10mg/50 suelo'; original='10mg/50 suelo'
+  E1: stored='mg degradados'; original='mg degradados'
+  F1: stored='% remosión '; original='% remosión '
+  G1: stored='% retenido'; original='% retenido'
+  H1: stored='mg reteni'; original='mg reteni'
+  I1: stored='mg degrada'; original='mg degrada'
+  J1: stored='Muestra'; original='Muestra'
+  K1: stored='% biodegra '; original='% biodegra '
+
+FILA 2
+  A2: stored='R5'; original='R5'
+  B2: stored=300.89717; original=300.89717
+  C2: stored=0.39820566; original=0.39820566
+  D2: stored=3.982056591; original=3.982056591
+  E2: stored=6.017943409; original=6.017943409
+  F2: stored=60.1794341; original=60.1794341
+  G2: stored=39.8205659; original=39.8205659
+  H2: stored=199.10283; original=199.10283
+  I2: stored=300.89717; original=300.89717
+  J2: stored='R5'; original='R5'
+  K2: stored=60.1794341; original=60.1794341
+
+FILA 3
+  A3: stored='R5'; original='R5'
+  B3: stored=291.120313; original=291.120313
+  C3: stored=0.41775937; original=0.41775937
+  D3: stored=4.177593743; original=4.177593743
+  E3: stored=5.822406257; original=5.822406257
+  F3: stored=58.2240626; original=58.2240626
+  G3: stored=41.7759374; original=41.7759374
+  H3: stored=208.879687; original=208.879687
+  I3: stored=291.120313; original=291.120313
+  J3: stored='R5'; original='R5'
+  K3: stored=58.2240626; original=58.2240626
+
+FILA 4
+  A4: stored='R5'; original='R5'
+  B4: stored=287.428111; original=287.428111
+  C4: stored=0.42514378; original=0.42514378
+  D4: stored=4.251437773; original=4.251437773
+  E4: stored=5.748562227; original=5.748562227
+  F4: stored=57.4856223; original=57.4856223
+  G4: stored=42.5143777; original=42.5143777
+  H4: stored=212.571889; original=212.571889
+  I4: stored=287.428111; original=287.428111
+  J4: stored='R5'; original='R5'
+  K4: stored=57.4856223; original=57.4856223
+
+FILA 5
+  A5: stored='RT5'; original='RT5'
+  B5: stored=271.267541; original=271.267541
+  C5: stored=0.45746492; original=0.45746492
+  D5: stored=4.574649183; original=4.574649183
+  E5: stored=5.425350817; original=5.425350817
+  F5: stored=54.2535082; original=54.2535082
+  G5: stored=45.7464918; original=45.7464918
+  H5: stored=228.732459; original=228.732459
+  I5: stored=271.267541; original=271.267541
+  J5: stored='RT5'; original='RT5'
+  K5: stored=54.2535082; original=54.2535082
+
+FILA 6
+  A6: stored='RT5'; original='RT5'
+  B6: stored=302.024385; original=302.024385
+  C6: stored=0.39595123; original=0.39595123
+  D6: stored=3.959512307; original=3.959512307
+  E6: stored=6.040487693; original=6.040487693
+  F6: stored=60.4048769; original=60.4048769
+  G6: stored=39.5951231; original=39.5951231
+  H6: stored=197.975615; original=197.975615
+  I6: stored=302.024385; original=302.024385
+  J6: stored='RT5'; original='RT5'
+  K6: stored=60.4048769; original=60.4048769
+
+FILA 7
+  A7: stored='RT5'; original='RT5'
+  B7: stored=279.963193; original=279.963193
+  C7: stored=0.44007361; original=0.44007361
+  D7: stored=4.40073614; original=4.40073614
+  E7: stored=5.59926386; original=5.59926386
+  F7: stored=55.9926386; original=55.9926386
+  G7: stored=44.0073614; original=44.0073614
+  H7: stored=220.036807; original=220.036807
+  I7: stored=279.963193; original=279.963193
+  J7: stored='RT5'; original='RT5'
+  K7: stored=55.9926386; original=55.9926386
+
+FILA 8
+  A8: stored='T5'; original='T5'
+  B8: stored=111.375661; original=111.375661
+  C8: stored=0.77724868; original=0.77724868
+  D8: stored=7.772486772; original=7.772486772
+  E8: stored=2.227513228; original=2.227513228
+  F8: stored=22.2751323; original=22.2751323
+  G8: stored=77.7248677; original=77.7248677
+  H8: stored=388.624339; original=388.624339
+  I8: stored=111.375661; original=111.375661
+  J8: stored='T5'; original='T5'
+  K8: stored=22.2751323; original=22.2751323
+
+FILA 9
+  A9: stored='T5'; original='T5'
+  B9: stored=113.377042; original=113.377042
+  C9: stored=0.77324592; original=0.77324592
+  D9: stored=7.732459167; original=7.732459167
+  E9: stored=2.267540833; original=2.267540833
+  F9: stored=22.6754083; original=22.6754083
+  G9: stored=77.3245917; original=77.3245917
+  H9: stored=386.622958; original=386.622958
+  I9: stored=113.377042; original=113.377042
+  J9: stored='T5'; original='T5'
+  K9: stored=22.6754083; original=22.6754083
+
+FILA 10
+  A10: stored='T5'; original='T5'
+  B10: stored=120.082816; original=120.082816
+  C10: stored=0.75983437; original=0.75983437
+  D10: stored=7.598343685; original=7.598343685
+  E10: stored=2.401656315; original=2.401656315
+  F10: stored=24.0165631; original=24.0165631
+  G10: stored=75.9834369; original=75.9834369
+  H10: stored=379.917184; original=379.917184
+  I10: stored=120.082816; original=120.082816
+  J10: stored='T5'; original='T5'
+  K10: stored=24.0165631; original=24.0165631
+
+FILA 11
+  A11: stored='B5'; original='B5'
+  B11: stored=27.6282494; original=27.6282494
+  C11: stored=0.9447435; original=0.9447435
+  D11: stored=9.447435013; original=9.447435013
+  E11: stored=0.552564987; original=0.552564987
+  F11: stored=5.52564987; original=5.52564987
+  G11: stored=94.4743501; original=94.4743501
+  H11: stored=472.371751; original=472.371751
+  I11: stored=27.6282494; original=27.6282494
+  J11: stored='B5'; original='B5'
+  K11: stored=5.52564987; original=5.52564987
+
+FILA 12
+  A12: stored='B5'; original='B5'
+  B12: stored=23.4069473; original=23.4069473
+  C12: stored=0.95318611; original=0.95318611
+  D12: stored=9.531861054; original=9.531861054
+  E12: stored=0.468138946; original=0.468138946
+  F12: stored=4.68138946; original=4.68138946
+  G12: stored=95.3186105; original=95.3186105
+  H12: stored=476.593053; original=476.593053
+  I12: stored=23.4069473; original=23.4069473
+  J12: stored='B5'; original='B5'
+  K12: stored=4.68138946; original=4.68138946
+
+ÚLTIMAS 5 FILAS
+--------------------------------------------------------------------------------------------------------------
+A58='B40' | B58=228.89349 | C58=0.54221302 | D58=5.422130205 | E58=4.577869795 | F58=45.778698 | G58=54.221302 | H58=271.10651 | I58=228.89349 | J58='B40' | K58=45.778698
+A59='Te40' | B59=121.428571 | C59=0.75714286 | D59=7.571428571 | E59=2.428571429 | F59=24.2857143 | G59=75.7142857 | H59=378.571429 | I59=121.428571 | J59='Te40' | K59=24.2857143
+A60='Te40' | B60=187.255579 | C60=0.62548884 | D60=6.254888429 | E60=3.745111571 | F60=37.4511157 | G60=62.5488843 | H60=312.744421 | I60=187.255579 | J60='Te40' | K60=37.4511157
+A61='Te40' | B61=133.758914 | C61=0.73248217 | D61=7.324821716 | E61=2.675178284 | F61=26.7517828 | G61=73.2482172 | H61=366.241086 | I61=133.758914 | J61='Te40' | K61=26.7517828
+J62='max' | K62=92.9100529

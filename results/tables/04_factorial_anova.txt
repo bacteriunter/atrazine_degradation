@@ -1,0 +1,34 @@
+========================================================================
+ANOVA FACTORIAL — DEGRADACIÓN DE ATRAZINA
+========================================================================
+
+Respuesta: biodegradation_pct
+Modelo: biodegradation_pct ~ C(treatment) * C(time_factor)
+
+Unidades experimentales independientes: 48
+Tratamientos: Te, R, T, RT
+Tiempos: 5, 10, 20, 40 días
+Réplicas por celda: 3
+
+Diseño:
+time_factor  5  10  20  40
+treatment                 
+Te           3   3   3   3
+R            3   3   3   3
+T            3   3   3   3
+RT           3   3   3   3
+
+TABLA ANOVA
+------------------------------------------------------------------------
+          effect  sum_sq  df       F     p_value partial_eta_sq
+       Treatment 9309.24   3 157.777 2.99451e-19       0.936675
+            Time 6923.95   3  117.35 2.39302e-17       0.916678
+Treatment × Time 9362.02   9 52.8905  1.1019e-16        0.93701
+        Residual  629.36  32     NaN         NaN           <NA>
+
+Tamaño de efecto:
+partial eta squared = SS_effect / (SS_effect + SS_error)
+
+No se realizaron comparaciones post hoc.
+No se eliminaron observaciones.
+No se transformó la variable respuesta.

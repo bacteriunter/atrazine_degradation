@@ -1,0 +1,38 @@
+========================================================================
+DIAGNÓSTICO DEL MODELO FACTORIAL
+========================================================================
+
+Observaciones: 48
+
+Diseño:
+time_factor  5  10  20  40
+treatment                 
+Te           3   3   3   3
+R            3   3   3   3
+T            3   3   3   3
+RT           3   3   3   3
+
+Modelo diagnóstico:
+biodegradation_pct ~ C(treatment) * C(time_factor)
+
+Grados de libertad residuales:
+32
+
+Shapiro-Wilk sobre residuos:
+W = 0.982853
+p = 0.700546
+
+Brown-Forsythe entre las 16 celdas:
+Statistic = 0.682525
+p = 0.781879
+
+Residuos estandarizados:
+|residuo| > 2: 3
+|residuo| > 3: 0
+
+IMPORTANTE:
+Estos resultados son diagnósticos.
+No se calculó ANOVA.
+No se realizaron comparaciones post hoc.
+No se eliminaron observaciones.
+No se transformó la respuesta.

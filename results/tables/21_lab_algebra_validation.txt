@@ -1,0 +1,47 @@
+====================================================================================================
+VALIDACIÓN ALGEBRAICA — BASE 1 ANALÍTICA
+====================================================================================================
+
+Observaciones analizadas: 48
+
+mg_per_50g_soil = 10 * mg_per_5g_soil
+  Coinciden: 48/48
+  No coinciden: 0
+
+mg_degraded_original = 10 - mg_per_50g_soil
+  Coinciden: 48/48
+  No coinciden: 0
+
+removal_pct_original = 10 * mg_degraded_original
+  Coinciden: 48/48
+  No coinciden: 0
+
+retained_pct = 100 - removal_pct_original
+  Coinciden: 48/48
+  No coinciden: 0
+
+mg_retained = 500 * retained_pct / 100
+  Coinciden: 48/48
+  No coinciden: 0
+
+mg_degraded = 500 - mg_retained
+  Coinciden: 48/48
+  No coinciden: 0
+
+mg_degraded = hplc_500ppm
+  Coinciden: 48/48
+  No coinciden: 0
+
+biodegradation_pct = removal_pct_original
+  Coinciden: 48/48
+  No coinciden: 0
+
+biodegradation_pct = 100 * mg_degraded / 500
+  Coinciden: 48/48
+  No coinciden: 0
+
+====================================================================================================
+CONCLUSIÓN AUTOMÁTICA
+====================================================================================================
+
+Todas las relaciones se cumplen: True

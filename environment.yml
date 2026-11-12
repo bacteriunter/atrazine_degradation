@@ -1,0 +1,15 @@
+name: atrazine_model
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.10
+  - matplotlib
+  - numpy
+  - jupyterlab
+  - pandas
+  - scipy
+  - statsmodels
+  - scikit-learn
+  - openpyxl

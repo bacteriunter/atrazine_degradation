@@ -1,0 +1,8 @@
+soil,variable_code,variable_description,unit,n_subsamples,mean,sd,minimum,maximum
+Capulin,CIC,Capacidad de intercambio catiónico,cmol(+)/kg,3,29.349999999999998,0.010000000000000675,29.34,29.36
+Capulin,CO,Carbono orgánico,%,3,2.8666666666666667,0.030550504633038877,2.84,2.9
+Capulin,D,Densidad,g/cm3,3,2.376666666666667,0.04618802153517014,2.35,2.43
+Capulin,H,Humedad gravimétrica,% w/w,3,14.729999999999999,0.33045423283716613,14.35,14.95
+Capulin,MO,Materia orgánica,%,3,4.94,0.01000000000000012,4.93,4.95
+Capulin,N,Nitrógeno,%,3,0.19000000000000003,0.010000000000000009,0.18,0.2
+Capulin,pH,pH,dimensionless,3,6.846666666666667,0.3066485501895178,6.65,7.2

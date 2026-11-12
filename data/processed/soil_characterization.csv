@@ -1,0 +1,64 @@
+original_label,variable_code,variable,variable_description,unit,soil_code,soil,replicate,value,used_in_degradation_experiments
+Ds,D,density,Densidad,g/cm3,s,Santa Ana,1,2.49,False
+Ds,D,density,Densidad,g/cm3,s,Santa Ana,2,2.14,False
+Ds,D,density,Densidad,g/cm3,s,Santa Ana,3,2.43,False
+Dc,D,density,Densidad,g/cm3,c,Capulin,1,2.35,True
+Dc,D,density,Densidad,g/cm3,c,Capulin,2,2.43,True
+Dc,D,density,Densidad,g/cm3,c,Capulin,3,2.35,True
+Dt,D,density,Densidad,g/cm3,t,Tepantitla,1,2.0,False
+Dt,D,density,Densidad,g/cm3,t,Tepantitla,2,2.29,False
+Dt,D,density,Densidad,g/cm3,t,Tepantitla,3,2.59,False
+pHs,pH,pH,pH,dimensionless,s,Santa Ana,1,8.13,False
+pHs,pH,pH,pH,dimensionless,s,Santa Ana,2,7.97,False
+pHs,pH,pH,pH,dimensionless,s,Santa Ana,3,8.02,False
+pHc,pH,pH,pH,dimensionless,c,Capulin,1,6.69,True
+pHc,pH,pH,pH,dimensionless,c,Capulin,2,7.2,True
+pHc,pH,pH,pH,dimensionless,c,Capulin,3,6.65,True
+pHt,pH,pH,pH,dimensionless,t,Tepantitla,1,6.28,False
+pHt,pH,pH,pH,dimensionless,t,Tepantitla,2,6.65,False
+pHt,pH,pH,pH,dimensionless,t,Tepantitla,3,6.31,False
+Hs,H,gravimetric_moisture,Humedad gravimétrica,% w/w,s,Santa Ana,1,11.9,False
+Hs,H,gravimetric_moisture,Humedad gravimétrica,% w/w,s,Santa Ana,2,11.8,False
+Hs,H,gravimetric_moisture,Humedad gravimétrica,% w/w,s,Santa Ana,3,11.85,False
+Hc,H,gravimetric_moisture,Humedad gravimétrica,% w/w,c,Capulin,1,14.95,True
+Hc,H,gravimetric_moisture,Humedad gravimétrica,% w/w,c,Capulin,2,14.35,True
+Hc,H,gravimetric_moisture,Humedad gravimétrica,% w/w,c,Capulin,3,14.89,True
+Ht,H,gravimetric_moisture,Humedad gravimétrica,% w/w,t,Tepantitla,1,15.95,False
+Ht,H,gravimetric_moisture,Humedad gravimétrica,% w/w,t,Tepantitla,2,14.91,False
+Ht,H,gravimetric_moisture,Humedad gravimétrica,% w/w,t,Tepantitla,3,15.56,False
+Ns,N,nitrogen,Nitrógeno,%,s,Santa Ana,1,0.26,False
+Ns,N,nitrogen,Nitrógeno,%,s,Santa Ana,2,0.3,False
+Ns,N,nitrogen,Nitrógeno,%,s,Santa Ana,3,0.31,False
+Nc,N,nitrogen,Nitrógeno,%,c,Capulin,1,0.19,True
+Nc,N,nitrogen,Nitrógeno,%,c,Capulin,2,0.18,True
+Nc,N,nitrogen,Nitrógeno,%,c,Capulin,3,0.2,True
+Nt,N,nitrogen,Nitrógeno,%,t,Tepantitla,1,0.247,False
+Nt,N,nitrogen,Nitrógeno,%,t,Tepantitla,2,0.245,False
+Nt,N,nitrogen,Nitrógeno,%,t,Tepantitla,3,0.251,False
+COs,CO,organic_carbon,Carbono orgánico,%,s,Santa Ana,1,4.071,False
+COs,CO,organic_carbon,Carbono orgánico,%,s,Santa Ana,2,4.09,False
+COs,CO,organic_carbon,Carbono orgánico,%,s,Santa Ana,3,4.07,False
+COc,CO,organic_carbon,Carbono orgánico,%,c,Capulin,1,2.84,True
+COc,CO,organic_carbon,Carbono orgánico,%,c,Capulin,2,2.9,True
+COc,CO,organic_carbon,Carbono orgánico,%,c,Capulin,3,2.86,True
+COt,CO,organic_carbon,Carbono orgánico,%,t,Tepantitla,1,3.36,False
+COt,CO,organic_carbon,Carbono orgánico,%,t,Tepantitla,2,3.34,False
+COt,CO,organic_carbon,Carbono orgánico,%,t,Tepantitla,3,3.38,False
+MOs,MO,organic_matter,Materia orgánica,%,s,Santa Ana,1,4.06,False
+MOs,MO,organic_matter,Materia orgánica,%,s,Santa Ana,2,4.06,False
+MOs,MO,organic_matter,Materia orgánica,%,s,Santa Ana,3,4.02,False
+MOc,MO,organic_matter,Materia orgánica,%,c,Capulin,1,4.94,True
+MOc,MO,organic_matter,Materia orgánica,%,c,Capulin,2,4.93,True
+MOc,MO,organic_matter,Materia orgánica,%,c,Capulin,3,4.95,True
+MOt,MO,organic_matter,Materia orgánica,%,t,Tepantitla,1,5.79,False
+MOt,MO,organic_matter,Materia orgánica,%,t,Tepantitla,2,5.78,False
+MOt,MO,organic_matter,Materia orgánica,%,t,Tepantitla,3,5.78,False
+CICs,CIC,cation_exchange_capacity,Capacidad de intercambio catiónico,cmol(+)/kg,s,Santa Ana,1,25.45,False
+CICs,CIC,cation_exchange_capacity,Capacidad de intercambio catiónico,cmol(+)/kg,s,Santa Ana,2,25.36,False
+CICs,CIC,cation_exchange_capacity,Capacidad de intercambio catiónico,cmol(+)/kg,s,Santa Ana,3,25.57,False
+CICc,CIC,cation_exchange_capacity,Capacidad de intercambio catiónico,cmol(+)/kg,c,Capulin,1,29.35,True
+CICc,CIC,cation_exchange_capacity,Capacidad de intercambio catiónico,cmol(+)/kg,c,Capulin,2,29.34,True
+CICc,CIC,cation_exchange_capacity,Capacidad de intercambio catiónico,cmol(+)/kg,c,Capulin,3,29.36,True
+CICt,CIC,cation_exchange_capacity,Capacidad de intercambio catiónico,cmol(+)/kg,t,Tepantitla,1,59.62,False
+CICt,CIC,cation_exchange_capacity,Capacidad de intercambio catiónico,cmol(+)/kg,t,Tepantitla,2,59.61,False
+CICt,CIC,cation_exchange_capacity,Capacidad de intercambio catiónico,cmol(+)/kg,t,Tepantitla,3,59.66,False

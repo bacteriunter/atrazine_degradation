@@ -1,0 +1,69 @@
+====================================================================================================
+CHECKPOINT 24 — CLASIFICACIÓN PDA AISLAMIENTO
+====================================================================================================
+
+Registros totales: 54
+Con observación: 36
+Sin observación: 18
+Clasificados explícitamente: 36
+
+overall_growth
+----------------------------------------------------------------------------------------------------
+      soil  time_h overall_growth  n
+   Capulin      24         absent  5
+   Capulin      24        present  1
+   Capulin      48         absent  2
+   Capulin      48        present  4
+   Capulin      72 not_determined  6
+ Santa Ana      24         absent  3
+ Santa Ana      24        present  3
+ Santa Ana      48         absent  2
+ Santa Ana      48        present  4
+ Santa Ana      72 not_determined  6
+Tepantitla      24        present  6
+Tepantitla      48        present  6
+Tepantitla      72 not_determined  6
+
+bacterial_growth
+----------------------------------------------------------------------------------------------------
+      soil  time_h bacterial_growth  n
+   Capulin      24   not_determined  5
+   Capulin      24          present  1
+   Capulin      48   not_determined  3
+   Capulin      48          present  3
+   Capulin      72   not_determined  6
+ Santa Ana      24   not_determined  3
+ Santa Ana      24          present  3
+ Santa Ana      48   not_determined  3
+ Santa Ana      48          present  3
+ Santa Ana      72   not_determined  6
+Tepantitla      24          present  6
+Tepantitla      48   not_determined  1
+Tepantitla      48          present  5
+Tepantitla      72   not_determined  6
+
+fungal_growth
+----------------------------------------------------------------------------------------------------
+      soil  time_h  fungal_growth  n
+   Capulin      24 not_determined  6
+   Capulin      48 not_determined  6
+   Capulin      72 not_determined  6
+ Santa Ana      24 not_determined  5
+ Santa Ana      24        present  1
+ Santa Ana      48 not_determined  3
+ Santa Ana      48        present  3
+ Santa Ana      72 not_determined  6
+Tepantitla      24 not_determined  6
+Tepantitla      48         absent  2
+Tepantitla      48 not_determined  1
+Tepantitla      48        present  3
+Tepantitla      72 not_determined  6
+
+CRITERIOS
+----------------------------------------------------------------------------------------------------
+1. Se conserva íntegra la observación original.
+2. No se asignaron puntuaciones de intensidad.
+3. not_determined no equivale a ausencia.
+4. Los registros sin observación no se clasificaron como ausencia.
+5. La ausencia específica de bacterias u hongos solo se asignó cuando el texto lo indicó.
+6. No se realizaron pruebas estadísticas.

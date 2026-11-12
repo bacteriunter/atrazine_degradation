@@ -1,0 +1,37 @@
+==============================================================================
+VALIDACIÓN — PDA AISLAMIENTO
+==============================================================================
+
+Registros procesados: 54
+Tiempos: 24, 48, 72 h
+Diluciones: 1, 2, 3, 4, 5, 6
+Suelos: Tepantitla, Capulin, Santa Ana
+
+CORRESPONDENCIA DE PROCEDENCIAS
+------------------------------------------------------------------------------
+S.Tepantitla -> Tepantitla
+S. Capulin -> Capulin
+S. Herbicida -> Santa Ana
+
+REGISTROS POR TIEMPO Y SUELO
+------------------------------------------------------------------------------
+ time_h       soil  n_dilutions  n_with_observation
+     24    Capulin            6                   6
+     24  Santa Ana            6                   6
+     24 Tepantitla            6                   6
+     48    Capulin            6                   6
+     48  Santa Ana            6                   6
+     48 Tepantitla            6                   6
+     72    Capulin            6                   0
+     72  Santa Ana            6                   0
+     72 Tepantitla            6                   0
+
+DECISIONES ANALÍTICAS
+------------------------------------------------------------------------------
+- Las observaciones textuales se conservaron sin recodificación numérica.
+- Las diluciones no se interpretaron como réplicas.
+- No se realizaron pruebas estadísticas.
+- Los registros de 72 h se conservaron, aunque carecen de observaciones.
+- Hoja2 no aporta datos.
+- El valor aislado de Hoja3 no se incorporó por carecer de significado documentado.
+- Este dataset se conserva como información contextual del aislamiento inicial.

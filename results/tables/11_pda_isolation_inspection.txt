@@ -1,0 +1,203 @@
+==========================================================================================
+AUDITORÍA ESPECÍFICA — PDA AISLAMIENTO
+==========================================================================================
+
+Archivo: pda_aislamiento.xlsx
+Lectura: header=None
+Número de hojas: 3
+Hojas: Preliminar, Hoja2, Hoja3
+
+==========================================================================================
+HOJA: Preliminar
+==========================================================================================
+
+Dimensiones: 26 filas × 8 columnas
+
+CONTENIDO COMPLETO
+------------------------------------------------------------------------------------------
+            0                                                                                                                                                                                                     1              2                                                                                              3              4                                                                                                                                                                                                            5              6                                                                                                                                                                                                         7
+0         NaN                                                                                                                                                                                             24 horas             NaN                                                                                            NaN            NaN                                                                                                                                                                                                          NaN            NaN                                                                                                                                                                                                       NaN
+1   Dilución                                                                                                                                                                                           S.Tepantitla  Observaciones                                                                                     S. Capulin  Observaciones                                                                                                                                                                                                 S. Herbicida  Observaciones                                                                                                                                                                                                       NaN
+2           1                                                                                                                                                     incontable de colonias de baterias en las 3 cajas            NaN                                                                                sin crecimiento            NaN                                                                                                                                                                      crecimiento  de colonias de bacterias              NaN  Crecimiento:                           Multiplicación: espora asexual (conidios), color                               Reproducción, espora sexual : ascospora, basidiospora, zigospora, oospora, ninguna
+3           2                                                                                                                                                     incontable de colonias de baterias en las 3 cajas            NaN                                                                                sin crecimiento            NaN                                                                                                                                                                                              sin crecimiento            NaN                                                                                                                                                                                                       NaN
+4           3                                                                                                                                                         crecimiento moderado de colonias de bacterias            NaN                                                 crecimiento en 1 caja de colonias de bacterias            NaN                                                                                    crecimiento  de colonias de bacterias en 1 caja  y de hongos en forma de hinfas en diferentes direcciones de color blanco            NaN                                                                                                                                                                                                       NaN
+5           4                                                                                                                                                           crecimiento escaso de colonias de bacterias            NaN                                                                                sin crecimiento            NaN                                                                                                                                                            crecimiento en 8 colonias de bacterias  en 1 caja            NaN                                                                                                                                                                                                       NaN
+6           5                                                                                                                                                       crecimiento de 1 colonia de baterias en 2 cajas            NaN                                                                                sin crecimiento            NaN                                                                                                                                                                                              sin crecimiento            NaN                                                                                                                                                                                                       NaN
+7           6                                                                                                                                                        crecimiento de 1 colonia de bateria en 1 cajas            NaN                                                                                sin crecimiento            NaN                                                                                                                                                                                              sin crecimiento            NaN                                                                                                                                                                                                       NaN
+8         NaN                                                                                                                                                                                                   NaN            NaN                                                                                            NaN            NaN                                                                                                                                                                                                          NaN            NaN                                                                                                                                                                                                       NaN
+9         NaN                                                                                                                                                                                              48 horas            NaN                                                                                            NaN            NaN                                                                                                                                                                                                          NaN            NaN                                                                                                                                                                                                       NaN
+10   Dilución                                                                                                                                                                                          S.Tepantitla  Observaciones                                                                                     S. Capulin  Observaciones                                                                                                                                                                                                 S. Herbicida  Observaciones                                                                                                                                                                                                       NaN
+11          1  Crecimiento abundante en las tres cajas, de bacterias y  hogos con hifas agrupadas en micelio con coloración café claro en la base de la formación del hongo, el crecimiento en en todas direcciones            NaN                                                                                sin crecimiento            NaN  Crecimiento en una caja de hongos filamentosos, las hinfas son blancas y delagadas, se observa unos pequeños puntos negros en la superficoe de las hinfas, las hinfas crecen en todos los planos de la caja            NaN                                                                                                                                                                                                       NaN
+12          2                                                                  crecimiento moderado en las tres cajas, de bacterias y  hogos con hinfas agrupadas en micelio , el crecimiento en  todas direcciones            NaN                                                 ligero crecimiento en las 3 cajas de bacterias            NaN                                                                                                                                                                    cremiento apenas perceptible de bacterias            NaN                                                                                                                                                                                                       NaN
+13          3                                                                          crecimiento de 2 hongos en 2 cajas  y uno en otra caja, el crecimiento de las  hinfas es moderado pero en  todas direcciones            NaN  crecimiento moderado de bacterias en una caja, liqero en otra y sin crecimiento en la tercera            NaN                                            crecimiento en una caja de hongos filamentosos, las hinfas son blancas y robustas con dirección en un mismos plano y tambien crecimiento de colonas de bacterias             NaN                                                                                                                                                                                                       NaN
+14          4                                                                                                                                            No se aprecie crecimiento de hogos , pero si de bacterias             NaN                                                      crecimiento minimo perceptible en 2 cajas            NaN                                                                                      crecimiento moderado de bacterias y hongos filamentosos,en una caja, las hinfas estan agrupadas  de forma independiente            NaN                                                                                                                                                                                                       NaN
+15          5                                                                                                                                           sin crecimiento de hongos, pero si hay bacterias en 2 cajas            NaN                                               crecimiento de 2 colonias de baterias en una cja            NaN                                                                                                                                                                                              sin crecimiento            NaN                                                                                                                                                                                                       NaN
+16          6                                                                                                                                                             crecimiento de bacterias en una solo caja            NaN                                                               no se aprecia crecimiento alguno            NaN                                                                                                                                                                                              sin crecimiento            NaN                                                                                                                                                                                                       NaN
+17        NaN                                                                                                                                                                                                   NaN            NaN                                                                                            NaN            NaN                                                                                                                                                                                                          NaN            NaN                                                                                                                                                                                                       NaN
+18        NaN                                                                                                                                                                                             72 horas             NaN                                                                                            NaN            NaN                                                                                                                                                                                                          NaN            NaN                                                                                                                                                                                                       NaN
+19  Dilución                                                                                                                                                                                           S.Tepantitla  Observaciones                                                                                     S. Capulin  Observaciones                                                                                                                                                                                                 S. Herbicida  Observaciones                                                                                                                                                                                                       NaN
+20          1                                                                                                                                                                                                   NaN            NaN                                                                                            NaN            NaN                                                                                                                                                                                                          NaN            NaN                                                                                                                                                                                                       NaN
+21          2                                                                                                                                                                                                   NaN            NaN                                                                                            NaN            NaN                                                                                                                                                                                                          NaN            NaN                                                                                                                                                                                                       NaN
+22          3                                                                                                                                                                                                   NaN            NaN                                                                                            NaN            NaN                                                                                                                                                                                                          NaN            NaN                                                                                                                                                                                                       NaN
+23          4                                                                                                                                                                                                   NaN            NaN                                                                                            NaN            NaN                                                                                                                                                                                                          NaN            NaN                                                                                                                                                                                                       NaN
+24          5                                                                                                                                                                                                   NaN            NaN                                                                                            NaN            NaN                                                                                                                                                                                                          NaN            NaN                                                                                                                                                                                                       NaN
+25          6                                                                                                                                                                                                   NaN            NaN                                                                                            NaN            NaN                                                                                                                                                                                                          NaN            NaN                                                                                                                                                                                                       NaN
+
+VALORES NO VACÍOS POR COLUMNA
+------------------------------------------------------------------------------------------
+Columna 0: 21
+Columna 1: 18
+Columna 2: 3
+Columna 3: 15
+Columna 4: 3
+Columna 5: 15
+Columna 6: 3
+Columna 7: 1
+
+FILAS COMPLETAMENTE VACÍAS
+------------------------------------------------------------------------------------------
+8, 17
+
+COLUMNAS COMPLETAMENTE VACÍAS
+------------------------------------------------------------------------------------------
+Ninguna
+
+TIPOS DE CONTENIDO POR COLUMNA
+------------------------------------------------------------------------------------------
+Columna 0: numéricos=18, texto=3, otros=0
+Columna 1: numéricos=0, texto=18, otros=0
+Columna 2: numéricos=0, texto=3, otros=0
+Columna 3: numéricos=0, texto=15, otros=0
+Columna 4: numéricos=0, texto=3, otros=0
+Columna 5: numéricos=0, texto=15, otros=0
+Columna 6: numéricos=0, texto=3, otros=0
+Columna 7: numéricos=0, texto=1, otros=0
+
+CELDAS NO VACÍAS CON COORDENADAS
+------------------------------------------------------------------------------------------
+fila=0, columna=1: '24 horas '
+fila=1, columna=0: 'Dilución '
+fila=1, columna=1: 'S.Tepantitla'
+fila=1, columna=2: 'Observaciones'
+fila=1, columna=3: 'S. Capulin'
+fila=1, columna=4: 'Observaciones'
+fila=1, columna=5: 'S. Herbicida'
+fila=1, columna=6: 'Observaciones'
+fila=2, columna=0: 1
+fila=2, columna=1: 'incontable de colonias de baterias en las 3 cajas'
+fila=2, columna=3: 'sin crecimiento'
+fila=2, columna=5: 'crecimiento  de colonias de bacterias  '
+fila=2, columna=7: 'Crecimiento:                           Multiplicación: espora asexual (conidios), color                               Reproducción, espora sexual : ascospora, basidiospora, zigospora, oospora, ninguna'
+fila=3, columna=0: 2
+fila=3, columna=1: 'incontable de colonias de baterias en las 3 cajas'
+fila=3, columna=3: 'sin crecimiento'
+fila=3, columna=5: 'sin crecimiento'
+fila=4, columna=0: 3
+fila=4, columna=1: 'crecimiento moderado de colonias de bacterias'
+fila=4, columna=3: 'crecimiento en 1 caja de colonias de bacterias'
+fila=4, columna=5: 'crecimiento  de colonias de bacterias en 1 caja  y de hongos en forma de hinfas en diferentes direcciones de color blanco'
+fila=5, columna=0: 4
+fila=5, columna=1: 'crecimiento escaso de colonias de bacterias'
+fila=5, columna=3: 'sin crecimiento'
+fila=5, columna=5: 'crecimiento en 8 colonias de bacterias  en 1 caja'
+fila=6, columna=0: 5
+fila=6, columna=1: 'crecimiento de 1 colonia de baterias en 2 cajas'
+fila=6, columna=3: 'sin crecimiento'
+fila=6, columna=5: 'sin crecimiento'
+fila=7, columna=0: 6
+fila=7, columna=1: 'crecimiento de 1 colonia de bateria en 1 cajas'
+fila=7, columna=3: 'sin crecimiento'
+fila=7, columna=5: 'sin crecimiento'
+fila=9, columna=1: '48 horas'
+fila=10, columna=0: 'Dilución'
+fila=10, columna=1: 'S.Tepantitla'
+fila=10, columna=2: 'Observaciones'
+fila=10, columna=3: 'S. Capulin'
+fila=10, columna=4: 'Observaciones'
+fila=10, columna=5: 'S. Herbicida'
+fila=10, columna=6: 'Observaciones'
+fila=11, columna=0: 1
+fila=11, columna=1: 'Crecimiento abundante en las tres cajas, de bacterias y  hogos con hifas agrupadas en micelio con coloración café claro en la base de la formación del hongo, el crecimiento en en todas direcciones'
+fila=11, columna=3: 'sin crecimiento'
+fila=11, columna=5: 'Crecimiento en una caja de hongos filamentosos, las hinfas son blancas y delagadas, se observa unos pequeños puntos negros en la superficoe de las hinfas, las hinfas crecen en todos los planos de la caja'
+fila=12, columna=0: 2
+fila=12, columna=1: 'crecimiento moderado en las tres cajas, de bacterias y  hogos con hinfas agrupadas en micelio , el crecimiento en  todas direcciones'
+fila=12, columna=3: 'ligero crecimiento en las 3 cajas de bacterias'
+fila=12, columna=5: 'cremiento apenas perceptible de bacterias'
+fila=13, columna=0: 3
+fila=13, columna=1: 'crecimiento de 2 hongos en 2 cajas  y uno en otra caja, el crecimiento de las  hinfas es moderado pero en  todas direcciones'
+fila=13, columna=3: 'crecimiento moderado de bacterias en una caja, liqero en otra y sin crecimiento en la tercera'
+fila=13, columna=5: 'crecimiento en una caja de hongos filamentosos, las hinfas son blancas y robustas con dirección en un mismos plano y tambien crecimiento de colonas de bacterias '
+fila=14, columna=0: 4
+fila=14, columna=1: 'No se aprecie crecimiento de hogos , pero si de bacterias '
+fila=14, columna=3: 'crecimiento minimo perceptible en 2 cajas'
+fila=14, columna=5: 'crecimiento moderado de bacterias y hongos filamentosos,en una caja, las hinfas estan agrupadas  de forma independiente'
+fila=15, columna=0: 5
+fila=15, columna=1: 'sin crecimiento de hongos, pero si hay bacterias en 2 cajas'
+fila=15, columna=3: 'crecimiento de 2 colonias de baterias en una cja'
+fila=15, columna=5: 'sin crecimiento'
+fila=16, columna=0: 6
+fila=16, columna=1: 'crecimiento de bacterias en una solo caja'
+fila=16, columna=3: 'no se aprecia crecimiento alguno'
+fila=16, columna=5: 'sin crecimiento'
+fila=18, columna=1: '72 horas '
+fila=19, columna=0: 'Dilución '
+fila=19, columna=1: 'S.Tepantitla'
+fila=19, columna=2: 'Observaciones'
+fila=19, columna=3: 'S. Capulin'
+fila=19, columna=4: 'Observaciones'
+fila=19, columna=5: 'S. Herbicida'
+fila=19, columna=6: 'Observaciones'
+fila=20, columna=0: 1
+fila=21, columna=0: 2
+fila=22, columna=0: 3
+fila=23, columna=0: 4
+fila=24, columna=0: 5
+fila=25, columna=0: 6
+
+==========================================================================================
+HOJA: Hoja2
+==========================================================================================
+
+Dimensiones: 0 filas × 0 columnas
+
+Hoja vacía.
+
+==========================================================================================
+HOJA: Hoja3
+==========================================================================================
+
+Dimensiones: 1 filas × 1 columnas
+
+CONTENIDO COMPLETO
+------------------------------------------------------------------------------------------
+   0
+0  8
+
+VALORES NO VACÍOS POR COLUMNA
+------------------------------------------------------------------------------------------
+Columna 0: 1
+
+FILAS COMPLETAMENTE VACÍAS
+------------------------------------------------------------------------------------------
+Ninguna
+
+COLUMNAS COMPLETAMENTE VACÍAS
+------------------------------------------------------------------------------------------
+Ninguna
+
+TIPOS DE CONTENIDO POR COLUMNA
+------------------------------------------------------------------------------------------
+Columna 0: numéricos=1, texto=0, otros=0
+
+CELDAS NO VACÍAS CON COORDENADAS
+------------------------------------------------------------------------------------------
+fila=0, columna=0: np.int64(8)
+
+==========================================================================================
+NOTA METODOLÓGICA
+==========================================================================================
+No se asignó significado experimental a filas, columnas o bloques.
+No se eliminaron valores.
+No se realizaron cálculos, promedios ni pruebas estadísticas.
+La finalidad de este reporte es reconstruir la estructura del archivo antes de procesarlo.

@@ -1,0 +1,3 @@
+Base 1 treatment,Microorganism,Growth time (days),Growth rate (mm/day),Inhibition at 5000 ppm (%),Inhibition at 7500 ppm (%),Inhibition at 10000 ppm (%)
+R,Rhizobium sp,4,20.0,0.0,0.0,2.5
+T,Trichoderma 1,5,16.0,0.0,0.0,0.0

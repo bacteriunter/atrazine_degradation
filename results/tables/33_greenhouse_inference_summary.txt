@@ -1,0 +1,55 @@
+==========================================================================================
+MODULE 4 — GREENHOUSE INFERENTIAL ANALYSIS
+==========================================================================================
+
+ONE-WAY ANOVA
+------------------------------------------------------------------------------------------
+                 Response  Treatment df  Residual df  Treatment SS  Residual SS         F        p  Eta squared
+  soil_biodegradation_pct             4           10   3380.507214   277.556998 30.448766 0.000014     0.924125
+global_bioremediation_pct             4           10   3308.548258   271.105389 30.509798 0.000014     0.924265
+
+TUKEY HSD
+------------------------------------------------------------------------------------------
+                 Response group1 group2  meandiff  p-adj    lower    upper  reject
+  soil_biodegradation_pct      F      R    7.5440 0.4472  -6.6130  21.7009   False
+  soil_biodegradation_pct      F     RT   19.4203 0.0077   5.2634  33.5773    True
+  soil_biodegradation_pct      F      T   31.9734 0.0002  17.8165  46.1304    True
+  soil_biodegradation_pct      F    Tes  -11.2196 0.1419 -25.3765   2.9373   False
+  soil_biodegradation_pct      R     RT   11.8764 0.1129  -2.2806  26.0333   False
+  soil_biodegradation_pct      R      T   24.4294 0.0015  10.2725  38.5864    True
+  soil_biodegradation_pct      R    Tes  -18.7636 0.0097 -32.9205  -4.6066    True
+  soil_biodegradation_pct     RT      T   12.5531 0.0889  -1.6038  26.7100   False
+  soil_biodegradation_pct     RT    Tes  -30.6399 0.0002 -44.7969 -16.4830    True
+  soil_biodegradation_pct      T    Tes  -43.1930 0.0000 -57.3499 -29.0361    True
+global_bioremediation_pct      F      R    6.9300 0.5124  -7.0614  20.9215   False
+global_bioremediation_pct      F     RT   19.0580 0.0081   5.0666  33.0495    True
+global_bioremediation_pct      F      T   31.4134 0.0002  17.4220  45.4048    True
+global_bioremediation_pct      F    Tes  -11.3534 0.1294 -25.3448   2.6381   False
+global_bioremediation_pct      R     RT   12.1280 0.0982  -1.8634  26.1194   False
+global_bioremediation_pct      R      T   24.4834 0.0013  10.4919  38.4748    True
+global_bioremediation_pct      R    Tes  -18.2834 0.0106 -32.2748  -4.2920    True
+global_bioremediation_pct     RT      T   12.3554 0.0906  -1.6361  26.3468   False
+global_bioremediation_pct     RT    Tes  -30.4114 0.0002 -44.4028 -16.4200    True
+global_bioremediation_pct      T    Tes  -42.7668 0.0000 -56.7582 -28.7753    True
+
+PLANNED CONTRASTS
+------------------------------------------------------------------------------------------
+                 Response Contrast Reference treatment Comparison treatment  Reference mean  Comparison mean  Mean difference       SE        t  Residual df    Raw p  CI lower 95%  CI upper 95%  Holm-adjusted p  Significant after Holm
+  soil_biodegradation_pct  F - Tes                 Tes                    F       13.316944        24.536540        11.219597 4.301604 2.608235           10 0.026120      1.635025     20.804168         0.052240                   False
+  soil_biodegradation_pct    R - F                   F                    R       24.536540        32.080519         7.543979 4.301604 1.753759           10 0.110010     -2.040593     17.128550         0.110010                   False
+  soil_biodegradation_pct    T - F                   F                    T       24.536540        56.509960        31.973419 4.301604 7.432906           10 0.000022     22.388848     41.557991         0.000089                    True
+  soil_biodegradation_pct   RT - F                   F                   RT       24.536540        43.956872        19.420331 4.301604 4.514672           10 0.001117      9.835760     29.004903         0.003352                    True
+global_bioremediation_pct  F - Tes                 Tes                    F       13.088377        24.441741        11.353363 4.251317 2.670552           10 0.023470      1.880840     20.825887         0.046941                    True
+global_bioremediation_pct    R - F                   F                    R       24.441741        31.371764         6.930023 4.251317 1.630089           10 0.134137     -2.542500     16.402547         0.134137                   False
+global_bioremediation_pct    T - F                   F                    T       24.441741        55.855146        31.413405 4.251317 7.389100           10 0.000023     21.940882     40.885929         0.000094                    True
+global_bioremediation_pct   RT - F                   F                   RT       24.441741        43.499782        19.058041 4.251317 4.482856           10 0.001174      9.585517     28.530564         0.003521                    True
+
+ANALYTICAL NOTES
+------------------------------------------------------------------------------------------
+1. Treatment B was excluded because atrazine was not added.
+2. Separate one-way ANOVAs were fitted for soil biodegradation and global bioremediation.
+3. Tukey HSD controls family-wise error across all pairwise treatment comparisons within each response.
+4. Four pre-specified contrasts were evaluated within each response: F-Tes, R-F, T-F, and RT-F.
+5. Holm correction was applied across the four planned contrasts within each response.
+6. Positive planned-contrast differences indicate a higher response in the second treatment named in each comparison.
+7. The two original observations using a multiplier of 4 remain unchanged.

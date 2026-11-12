@@ -1,0 +1,368 @@
+==============================================================================================================
+AUDITORÍA DE BASE 4 — INVERNADERO
+==============================================================================================================
+
+ARCHIVO
+--------------------------------------------------------------------------------------------------------------
+/home/bacte/atrazine_degradation/data/raw/base_4.xlsx
+
+HOJAS
+--------------------------------------------------------------------------------------------------------------
+Hoja1: 19 filas x 14 columnas
+
+
+==============================================================================================================
+HOJA: Hoja1
+==============================================================================================================
+
+CONTENIDO POR FILA
+--------------------------------------------------------------------------------------------------------------
+A1='Muestra' | B1='Clave' | C1='área' | D1='mg/ml' | E1='1.66mg/5g suelo' | F1='% atz retenida' | G1='mg Atz retenida en suelo' | H1='mg Atz degradada en suelo' | I1='%Biodegradación en suelo' | J1='mg atz retenida en planta' | K1='mg atz degradada en suelo considerando la planta' | L1='mg atz degrada por la planta' | M1='Total ATZ degradada ' | N1='% biorremediación global'
+A2='R' | B2='1A' | C2=2561 | D2='=(C2-684.7)/8694' | E2='=D2*5' | F2='=E2*100/1.66' | G2='=F2*1000/100' | H2='=1000-G2' | I2='=H2*100/1000' | J2=7.4370020256357785 | K2=342.5162963299675 | L2='=1000-G2-K2-J2' | M2='=K2+L2' | N2='=M2*100/1000'
+A3='R' | B3='2A' | C3=2657.1 | D3='=(C3-684.7)/8694' | E3='=D3*5' | F3='=E3*100/1.66' | G3='=F3*1000/100' | H3='=1000-G3' | I3='=H3*100/1000' | J3=6.89273093803845 | K3=309.7665909596283 | L3='=1000-G3-K3-J3' | M3='=K3+L3' | N3='=M3*100/1000'
+A4='R' | B4='3a' | C4=2717.3 | D4='=(C4-684.7)/8694' | E4='=D4*5' | F4='=E4*100/1.66' | G4='=F4*1000/100' | H4='=1000-G4' | I4='=H4*100/1000' | J4=6.932911938338818 | K4=288.87003761002705 | L4='=1000-G4-K4-J4' | M4='=K4+L4' | N4='=M4*100/1000'
+A5='RT' | B5='4a' | C5=2193.5 | D5='=(C5-684.7)/8694' | E5='=D5*5' | F5='=E5*100/1.66' | G5='=F5*1000/100' | H5='=1000-G5' | I5='=H5*100/1000' | J5=4.9965646217018085 | K5=472.2776114476549 | L5='=1000-G5-K5-J5' | M5='=K5+L5' | N5='=M5*100/1000'
+A6='RT' | B6='5a' | C6=2359.4 | D6='=(C6-684.7)/8694' | E6='=D6*5' | F6='=E6*100/1.66' | G6='=F6*1000/100' | H6='=1000-G6' | I6='=H6*100/1000' | J6=4.531645540637608 | K6=415.26624858936765 | L6='=1000-G6-K6-J6' | M6='=K6+L6' | N6='=M6*100/1000'
+A7='RT' | B7='6a' | C7=2354.1 | D7='=(C7-684.7)/8694' | E7='=D7*5' | F7='=E7*100/1.66' | G7='=F7*1000/100' | H7='=1000-G7' | I7='=H7*100/1000' | J7=4.1844972886507215 | K7=417.44958909137597 | L7='=1000-G7-K7-J7' | M7='=K7+L7' | N7='=M7*100/1000'
+A8='T' | B8='7a' | C8=1708.7 | D8='=(C8-684.7)/8694' | E8='=D8*5' | F8='=E8*100/1.66' | G8='=F8*1000/100' | H8='=1000-G8' | I8='=H8*100/1000' | J8=7.542736029320408 | K8=637.6910632118125 | L8='=1000-G8-K8-J8' | M8='=K8+L8' | N8='=M8*100/1000'
+A9='T' | B9='8a' | C9=2191.2 | D9='=(C9-684.7)/8694' | E9='=D9*5' | F9='=E9*100/1.66' | G9='=F9*1000/100' | H9='=1000-G9' | I9='=H9*100/1000' | J9=5.559035443757686 | K9=472.51197877183483 | L9='=1000-G9-K9-J9' | M9='=K9+L9' | N9='=M9*100/1000'
+A10='T' | B10='9a' | C10=1920.1 | D10='=(C10-684.7)/8694' | E10='=D10*5' | F10='=E10*100/1.66' | G10='=F10*1000/100' | H10='=1000-G10' | I10='=H10*100/1000' | J10=6.542643878668449 | K10=565.4513361823625 | L10='=1000-G10-K10-J10' | M10='=K10+L10' | N10='=M10*100/1000'
+A11='B' | B11='11a' | C11=3508 | D11='=(C11-684.7)/8694' | E11='=D11*5' | F11='=E11*100/1.66' | G11='=F11*1000/100' | H11='=1000-G11' | I11='=H11*100/1000' | J11=0.16819670657773692 | K11=21.695656220658996 | L11='=1000-G11-K11-J11' | M11='=K11+L11' | N11='=M11*100/1000'
+A12='B' | B12='12a' | C12=3685.2 | D12='=(C12-684.7)/8694' | E12='=D12*4' | F12='=E12*100/1.66' | G12='=F12*1000/100' | H12='=1000-G12' | I12='=H12*100/1000' | J12=1.3522705946148041 | K12=167.02586582961905 | L12='=1000-G12-K12-J12' | M12='=K12+L12' | N12='=M12*100/1000'
+A13='B' | B13='13a' | C13=3257.1 | D13='=(C13-684.7)/8694' | E13='=D13*5' | F13='=E13*100/1.66' | G13='=F13*1000/100' | H13='=1000-G13' | I13='=H13*100/1000' | J13=0.7736280519062825 | K13=108.01487308861167 | L13='=1000-G13-K13-J13' | M13='=K13+L13' | N13='=M13*100/1000'
+A14='F' | B14='14a' | C14=2957.15 | D14='=(C14-684.7)/8694' | E14='=D14*5' | F14='=E14*100/1.66' | G14='=F14*1000/100' | H14='=1000-G14' | I14='=H14*100/1000' | J14=1.1177954189020196 | K14=211.58879353179384 | L14='=1000-G14-K14-J14' | M14='=K14+L14' | N14='=M14*100/1000'
+A15='F' | B15='15a' | C15=2831.2 | D15='=(C15-684.7)/8694' | E15='=D15*5' | F15='=E15*100/1.66' | G15='=F15*1000/100' | H15='=1000-G15' | I15='=H15*100/1000' | J15=0.8142737065263368 | K15=145.7374265382072 | L15='=1000-G15-K15-J15' | M15='=K15+L15' | N15='=M15*100/1000'
+A16='F' | B16='16a' | C16=2800.3 | D16='=(C16-684.7)/8694' | E16='=D16*5' | F16='=E16*100/1.66' | G16='=F16*1000/100' | H16='=1000-G16' | I16='=H16*100/1000' | J16=0.9119211839368995 | K16=130.60378969269573 | L16='=1000-G16-K16-J16' | M16='=K16+L16' | N16='=M16*100/1000'
+A17='Tes' | B17='17a' | C17=3402.4 | D17='=(C17-684.7)/8694' | E17='=D17*5' | F17='=E17*100/1.66' | G17='=F17*1000/100' | H17='=1000-G17' | I17='=H17*100/1000' | J17=1.149063288864936 | K17=57.30005409163002 | L17='=1000-G17-K17-J17' | M17='=K17+L17' | N17='=M17*100/1000'
+A18='Tes' | B18='18a' | C18=3063.8 | D18='=(C18-684.7)/8694' | E18='=D18*5' | F18='=E18*100/1.66' | G18='=F18*1000/100' | H18='=1000-G18' | I18='=H18*100/1000' | J18=2.9368934378633083 | K18=172.82065712324913 | L18='=1000-G18-K18-J18' | M18='=K18+L18' | N18='=M18*100/1000'
+A19='Tes' | B19='19a' | C19=3696.3 | D19='=(C19-684.7)/8694' | E19='=D19*4' | F19='=E19*100/1.66' | G19='=F19*1000/100' | H19='=1000-G19' | I19='=H19*100/1000' | J19=2.771040272847019 | K19=162.53060800418086 | L19='=1000-G19-K19-J19' | M19='=K19+L19' | N19='=M19*100/1000'
+
+FÓRMULAS DETECTADAS
+--------------------------------------------------------------------------------------------------------------
+D2: =(C2-684.7)/8694 -> valor almacenado: 0.21581550494593973
+E2: =D2*5 -> valor almacenado: 1.0790775247296986
+F2: =E2*100/1.66 -> valor almacenado: 65.00467016443967
+G2: =F2*1000/100 -> valor almacenado: 650.0467016443968
+H2: =1000-G2 -> valor almacenado: 349.95329835560324
+I2: =H2*100/1000 -> valor almacenado: 34.99532983556033
+L2: =1000-G2-K2-J2 -> valor almacenado: -1.509903313490213e-14
+M2: =K2+L2 -> valor almacenado: 342.5162963299675
+N2: =M2*100/1000 -> valor almacenado: 34.251629632996746
+D3: =(C3-684.7)/8694 -> valor almacenado: 0.22686910512997469
+E3: =D3*5 -> valor almacenado: 1.1343455256498733
+F3: =E3*100/1.66 -> valor almacenado: 68.33406781023334
+G3: =F3*1000/100 -> valor almacenado: 683.3406781023333
+H3: =1000-G3 -> valor almacenado: 316.6593218976667
+I3: =H3*100/1000 -> valor almacenado: 31.66593218976667
+L3: =1000-G3-K3-J3 -> valor almacenado: -2.398081733190338e-14
+M3: =K3+L3 -> valor almacenado: 309.7665909596283
+N3: =M3*100/1000 -> valor almacenado: 30.976659095962827
+D4: =(C4-684.7)/8694 -> valor almacenado: 0.2337934207499425
+E4: =D4*5 -> valor almacenado: 1.1689671037497125
+F4: =E4*100/1.66 -> valor almacenado: 70.41970504516341
+G4: =F4*1000/100 -> valor almacenado: 704.1970504516341
+H4: =1000-G4 -> valor almacenado: 295.80294954836586
+I4: =H4*100/1000 -> valor almacenado: 29.580294954836585
+L4: =1000-G4-K4-J4 -> valor almacenado: -1.3322676295501878e-14
+M4: =K4+L4 -> valor almacenado: 288.87003761002705
+N4: =M4*100/1000 -> valor almacenado: 28.887003761002706
+D5: =(C5-684.7)/8694 -> valor almacenado: 0.17354497354497353
+E5: =D5*5 -> valor almacenado: 0.8677248677248677
+F5: =E5*100/1.66 -> valor almacenado: 52.272582393064326
+G5: =F5*1000/100 -> valor almacenado: 522.7258239306433
+H5: =1000-G5 -> valor almacenado: 477.2741760693567
+I5: =H5*100/1000 -> valor almacenado: 47.72741760693567
+L5: =1000-G5-K5-J5 -> valor almacenado: -1.509903313490213e-14
+M5: =K5+L5 -> valor almacenado: 472.2776114476549
+N5: =M5*100/1000 -> valor almacenado: 47.227761144765495
+D6: =(C6-684.7)/8694 -> valor almacenado: 0.19262709914883827
+E6: =D6*5 -> valor almacenado: 0.9631354957441913
+F6: =E6*100/1.66 -> valor almacenado: 58.020210586999475
+G6: =F6*1000/100 -> valor almacenado: 580.2021058699947
+H6: =1000-G6 -> valor almacenado: 419.79789413000526
+I6: =H6*100/1000 -> valor almacenado: 41.97978941300053
+L6: =1000-G6-K6-J6 -> valor almacenado: 0
+M6: =K6+L6 -> valor almacenado: 415.26624858936765
+N6: =M6*100/1000 -> valor almacenado: 41.52662485893677
+D7: =(C7-684.7)/8694 -> valor almacenado: 0.19201748332183113
+E7: =D7*5 -> valor almacenado: 0.9600874166091556
+F7: =E7*100/1.66 -> valor almacenado: 57.83659136199733
+G7: =F7*1000/100 -> valor almacenado: 578.3659136199733
+H7: =1000-G7 -> valor almacenado: 421.6340863800267
+I7: =H7*100/1000 -> valor almacenado: 42.16340863800267
+L7: =1000-G7-K7-J7 -> valor almacenado: 1.0658141036401503e-14
+M7: =K7+L7 -> valor almacenado: 417.44958909137597
+N7: =M7*100/1000 -> valor almacenado: 41.744958909137594
+D8: =(C8-684.7)/8694 -> valor almacenado: 0.11778237865194387
+E8: =D8*5 -> valor almacenado: 0.5889118932597194
+F8: =E8*100/1.66 -> valor almacenado: 35.47662007588671
+G8: =F8*1000/100 -> valor almacenado: 354.76620075886706
+H8: =1000-G8 -> valor almacenado: 645.2337992411329
+I8: =H8*100/1000 -> valor almacenado: 64.5233799241133
+L8: =1000-G8-K8-J8 -> valor almacenado: -1.3322676295501878e-14
+M8: =K8+L8 -> valor almacenado: 637.6910632118125
+N8: =M8*100/1000 -> valor almacenado: 63.769106321181255
+D9: =(C9-684.7)/8694 -> valor almacenado: 0.17328042328042326
+E9: =D9*5 -> valor almacenado: 0.8664021164021163
+F9: =E9*100/1.66 -> valor almacenado: 52.19289857844075
+G9: =F9*1000/100 -> valor almacenado: 521.9289857844075
+H9: =1000-G9 -> valor almacenado: 478.0710142155925
+I9: =H9*100/1000 -> valor almacenado: 47.80710142155925
+L9: =1000-G9-K9-J9 -> valor almacenado: 7.105427357601002e-15
+M9: =K9+L9 -> valor almacenado: 472.51197877183483
+N9: =M9*100/1000 -> valor almacenado: 47.251197877183486
+D10: =(C10-684.7)/8694 -> valor almacenado: 0.14209799861973774
+E10: =D10*5 -> valor almacenado: 0.7104899930986887
+F10: =E10*100/1.66 -> valor almacenado: 42.800601993896905
+G10: =F10*1000/100 -> valor almacenado: 428.006019938969
+H10: =1000-G10 -> valor almacenado: 571.9939800610309
+I10: =H10*100/1000 -> valor almacenado: 57.19939800610309
+L10: =1000-G10-K10-J10 -> valor almacenado: -4.884981308350689e-14
+M10: =K10+L10 -> valor almacenado: 565.4513361823625
+N10: =M10*100/1000 -> valor almacenado: 56.54513361823625
+D11: =(C11-684.7)/8694 -> valor almacenado: 0.3247412008281574
+E11: =D11*5 -> valor almacenado: 1.623706004140787
+F11: =E11*100/1.66 -> valor almacenado: 97.81361470727633
+G11: =F11*1000/100 -> valor almacenado: 978.1361470727633
+H11: =1000-G11 -> valor almacenado: 21.863852927236735
+I11: =H11*100/1000 -> valor almacenado: 2.1863852927236733
+L11: =1000-G11-K11-J11 -> valor almacenado: 1.6375789613221059e-15
+M11: =K11+L11 -> valor almacenado: 21.695656220658996
+N11: =M11*100/1000 -> valor almacenado: 2.1695656220658996
+D12: =(C12-684.7)/8694 -> valor almacenado: 0.34512307338394294
+E12: =D12*4 -> valor almacenado: 1.3804922935357717
+F12: =E12*100/1.66 -> valor almacenado: 83.16218635757662
+G12: =F12*1000/100 -> valor almacenado: 831.6218635757662
+H12: =1000-G12 -> valor almacenado: 168.37813642423384
+I12: =H12*100/1000 -> valor almacenado: 16.837813642423384
+L12: =1000-G12-K12-J12 -> valor almacenado: -1.0436096431476471e-14
+M12: =K12+L12 -> valor almacenado: 167.02586582961905
+N12: =M12*100/1000 -> valor almacenado: 16.702586582961903
+D13: =(C13-684.7)/8694 -> valor almacenado: 0.29588221762134803
+E13: =D13*5 -> valor almacenado: 1.4794110881067402
+F13: =E13*100/1.66 -> valor almacenado: 89.12114988594821
+G13: =F13*1000/100 -> valor almacenado: 891.211498859482
+H13: =1000-G13 -> valor almacenado: 108.78850114051795
+I13: =H13*100/1000 -> valor almacenado: 10.878850114051795
+L13: =1000-G13-K13-J13 -> valor almacenado: 3.4416913763379853e-15
+M13: =K13+L13 -> valor almacenado: 108.01487308861167
+N13: =M13*100/1000 -> valor almacenado: 10.801487308861166
+D14: =(C14-684.7)/8694 -> valor almacenado: 0.261381412468369
+E14: =D14*5 -> valor almacenado: 1.3069070623418448
+F14: =E14*100/1.66 -> valor almacenado: 78.72934110493041
+G14: =F14*1000/100 -> valor almacenado: 787.2934110493042
+H14: =1000-G14 -> valor almacenado: 212.70658895069585
+I14: =H14*100/1000 -> valor almacenado: 21.270658895069584
+L14: =1000-G14-K14-J14 -> valor almacenado: -1.3988810110276972e-14
+M14: =K14+L14 -> valor almacenado: 211.58879353179384
+N14: =M14*100/1000 -> valor almacenado: 21.158879353179387
+D15: =(C15-684.7)/8694 -> valor almacenado: 0.2468944099378882
+E15: =D15*5 -> valor almacenado: 1.234472049689441
+F15: =E15*100/1.66 -> valor almacenado: 74.36578612586995
+G15: =F15*1000/100 -> valor almacenado: 743.6578612586994
+H15: =1000-G15 -> valor almacenado: 256.3421387413006
+I15: =H15*100/1000 -> valor almacenado: 25.634213874130058
+L15: =1000-G15-K15-J15 -> valor almacenado: 109.79043849656705
+M15: =K15+L15 -> valor almacenado: 255.52786503477424
+N15: =M15*100/1000 -> valor almacenado: 25.55278650347742
+D16: =(C16-684.7)/8694 -> valor almacenado: 0.24334023464458251
+E16: =D16*5 -> valor almacenado: 1.2167011732229125
+F16: =E16*100/1.66 -> valor almacenado: 73.29525139897063
+G16: =F16*1000/100 -> valor almacenado: 732.9525139897064
+H16: =1000-G16 -> valor almacenado: 267.0474860102936
+I16: =H16*100/1000 -> valor almacenado: 26.704748601029358
+L16: =1000-G16-K16-J16 -> valor almacenado: 135.53177513366097
+M16: =K16+L16 -> valor almacenado: 266.1355648263567
+N16: =M16*100/1000 -> valor almacenado: 26.613556482635673
+D17: =(C17-684.7)/8694 -> valor almacenado: 0.31259489302967564
+E17: =D17*5 -> valor almacenado: 1.5629744651483781
+F17: =E17*100/1.66 -> valor almacenado: 94.1550882619505
+G17: =F17*1000/100 -> valor almacenado: 941.550882619505
+H17: =1000-G17 -> valor almacenado: 58.449117380494954
+I17: =H17*100/1000 -> valor almacenado: 5.844911738049495
+L17: =1000-G17-K17-J17 -> valor almacenado: 0
+M17: =K17+L17 -> valor almacenado: 57.30005409163002
+N17: =M17*100/1000 -> valor almacenado: 5.7300054091630015
+D18: =(C18-684.7)/8694 -> valor almacenado: 0.27364849321371065
+E18: =D18*5 -> valor almacenado: 1.3682424660685533
+F18: =E18*100/1.66 -> valor almacenado: 82.42424494388875
+G18: =F18*1000/100 -> valor almacenado: 824.2424494388875
+H18: =1000-G18 -> valor almacenado: 175.75755056111245
+I18: =H18*100/1000 -> valor almacenado: 17.575755056111245
+L18: =1000-G18-K18-J18 -> valor almacenado: 1.021405182655144e-14
+M18: =K18+L18 -> valor almacenado: 172.82065712324913
+N18: =M18*100/1000 -> valor almacenado: 17.282065712324915
+D19: =(C19-684.7)/8694 -> valor almacenado: 0.3463998159650334
+E19: =D19*4 -> valor almacenado: 1.3855992638601335
+F19: =E19*100/1.66 -> valor almacenado: 83.46983517229721
+G19: =F19*1000/100 -> valor almacenado: 834.6983517229721
+H19: =1000-G19 -> valor almacenado: 165.30164827702788
+I19: =H19*100/1000 -> valor almacenado: 16.530164827702787
+L19: =1000-G19-K19-J19 -> valor almacenado: 0
+M19: =K19+L19 -> valor almacenado: 162.53060800418086
+N19: =M19*100/1000 -> valor almacenado: 16.253060800418087
+
+Total de fórmulas: 162
+
+PRIMERAS 10 FILAS VALOR + FÓRMULA
+--------------------------------------------------------------------------------------------------------------
+
+FILA 1
+  A1: stored='Muestra'; original='Muestra'
+  B1: stored='Clave'; original='Clave'
+  C1: stored='área'; original='área'
+  D1: stored='mg/ml'; original='mg/ml'
+  E1: stored='1.66mg/5g suelo'; original='1.66mg/5g suelo'
+  F1: stored='% atz retenida'; original='% atz retenida'
+  G1: stored='mg Atz retenida en suelo'; original='mg Atz retenida en suelo'
+  H1: stored='mg Atz degradada en suelo'; original='mg Atz degradada en suelo'
+  I1: stored='%Biodegradación en suelo'; original='%Biodegradación en suelo'
+  J1: stored='mg atz retenida en planta'; original='mg atz retenida en planta'
+  K1: stored='mg atz degradada en suelo considerando la planta'; original='mg atz degradada en suelo considerando la planta'
+  L1: stored='mg atz degrada por la planta'; original='mg atz degrada por la planta'
+  M1: stored='Total ATZ degradada '; original='Total ATZ degradada '
+  N1: stored='% biorremediación global'; original='% biorremediación global'
+
+FILA 2
+  A2: stored='R'; original='R'
+  B2: stored='1A'; original='1A'
+  C2: stored=2561; original=2561
+  D2: stored=0.21581550494593973; original='=(C2-684.7)/8694'
+  E2: stored=1.0790775247296986; original='=D2*5'
+  F2: stored=65.00467016443967; original='=E2*100/1.66'
+  G2: stored=650.0467016443968; original='=F2*1000/100'
+  H2: stored=349.95329835560324; original='=1000-G2'
+  I2: stored=34.99532983556033; original='=H2*100/1000'
+  J2: stored=7.4370020256357785; original=7.4370020256357785
+  K2: stored=342.5162963299675; original=342.5162963299675
+  L2: stored=-1.509903313490213e-14; original='=1000-G2-K2-J2'
+  M2: stored=342.5162963299675; original='=K2+L2'
+  N2: stored=34.251629632996746; original='=M2*100/1000'
+
+FILA 3
+  A3: stored='R'; original='R'
+  B3: stored='2A'; original='2A'
+  C3: stored=2657.1; original=2657.1
+  D3: stored=0.22686910512997469; original='=(C3-684.7)/8694'
+  E3: stored=1.1343455256498733; original='=D3*5'
+  F3: stored=68.33406781023334; original='=E3*100/1.66'
+  G3: stored=683.3406781023333; original='=F3*1000/100'
+  H3: stored=316.6593218976667; original='=1000-G3'
+  I3: stored=31.66593218976667; original='=H3*100/1000'
+  J3: stored=6.89273093803845; original=6.89273093803845
+  K3: stored=309.7665909596283; original=309.7665909596283
+  L3: stored=-2.398081733190338e-14; original='=1000-G3-K3-J3'
+  M3: stored=309.7665909596283; original='=K3+L3'
+  N3: stored=30.976659095962827; original='=M3*100/1000'
+
+FILA 4
+  A4: stored='R'; original='R'
+  B4: stored='3a'; original='3a'
+  C4: stored=2717.3; original=2717.3
+  D4: stored=0.2337934207499425; original='=(C4-684.7)/8694'
+  E4: stored=1.1689671037497125; original='=D4*5'
+  F4: stored=70.41970504516341; original='=E4*100/1.66'
+  G4: stored=704.1970504516341; original='=F4*1000/100'
+  H4: stored=295.80294954836586; original='=1000-G4'
+  I4: stored=29.580294954836585; original='=H4*100/1000'
+  J4: stored=6.932911938338818; original=6.932911938338818
+  K4: stored=288.87003761002705; original=288.87003761002705
+  L4: stored=-1.3322676295501878e-14; original='=1000-G4-K4-J4'
+  M4: stored=288.87003761002705; original='=K4+L4'
+  N4: stored=28.887003761002706; original='=M4*100/1000'
+
+FILA 5
+  A5: stored='RT'; original='RT'
+  B5: stored='4a'; original='4a'
+  C5: stored=2193.5; original=2193.5
+  D5: stored=0.17354497354497353; original='=(C5-684.7)/8694'
+  E5: stored=0.8677248677248677; original='=D5*5'
+  F5: stored=52.272582393064326; original='=E5*100/1.66'
+  G5: stored=522.7258239306433; original='=F5*1000/100'
+  H5: stored=477.2741760693567; original='=1000-G5'
+  I5: stored=47.72741760693567; original='=H5*100/1000'
+  J5: stored=4.9965646217018085; original=4.9965646217018085
+  K5: stored=472.2776114476549; original=472.2776114476549
+  L5: stored=-1.509903313490213e-14; original='=1000-G5-K5-J5'
+  M5: stored=472.2776114476549; original='=K5+L5'
+  N5: stored=47.227761144765495; original='=M5*100/1000'
+
+FILA 6
+  A6: stored='RT'; original='RT'
+  B6: stored='5a'; original='5a'
+  C6: stored=2359.4; original=2359.4
+  D6: stored=0.19262709914883827; original='=(C6-684.7)/8694'
+  E6: stored=0.9631354957441913; original='=D6*5'
+  F6: stored=58.020210586999475; original='=E6*100/1.66'
+  G6: stored=580.2021058699947; original='=F6*1000/100'
+  H6: stored=419.79789413000526; original='=1000-G6'
+  I6: stored=41.97978941300053; original='=H6*100/1000'
+  J6: stored=4.531645540637608; original=4.531645540637608
+  K6: stored=415.26624858936765; original=415.26624858936765
+  L6: stored=0; original='=1000-G6-K6-J6'
+  M6: stored=415.26624858936765; original='=K6+L6'
+  N6: stored=41.52662485893677; original='=M6*100/1000'
+
+FILA 7
+  A7: stored='RT'; original='RT'
+  B7: stored='6a'; original='6a'
+  C7: stored=2354.1; original=2354.1
+  D7: stored=0.19201748332183113; original='=(C7-684.7)/8694'
+  E7: stored=0.9600874166091556; original='=D7*5'
+  F7: stored=57.83659136199733; original='=E7*100/1.66'
+  G7: stored=578.3659136199733; original='=F7*1000/100'
+  H7: stored=421.6340863800267; original='=1000-G7'
+  I7: stored=42.16340863800267; original='=H7*100/1000'
+  J7: stored=4.1844972886507215; original=4.1844972886507215
+  K7: stored=417.44958909137597; original=417.44958909137597
+  L7: stored=1.0658141036401503e-14; original='=1000-G7-K7-J7'
+  M7: stored=417.44958909137597; original='=K7+L7'
+  N7: stored=41.744958909137594; original='=M7*100/1000'
+
+FILA 8
+  A8: stored='T'; original='T'
+  B8: stored='7a'; original='7a'
+  C8: stored=1708.7; original=1708.7
+  D8: stored=0.11778237865194387; original='=(C8-684.7)/8694'
+  E8: stored=0.5889118932597194; original='=D8*5'
+  F8: stored=35.47662007588671; original='=E8*100/1.66'
+  G8: stored=354.76620075886706; original='=F8*1000/100'
+  H8: stored=645.2337992411329; original='=1000-G8'
+  I8: stored=64.5233799241133; original='=H8*100/1000'
+  J8: stored=7.542736029320408; original=7.542736029320408
+  K8: stored=637.6910632118125; original=637.6910632118125
+  L8: stored=-1.3322676295501878e-14; original='=1000-G8-K8-J8'
+  M8: stored=637.6910632118125; original='=K8+L8'
+  N8: stored=63.769106321181255; original='=M8*100/1000'
+
+FILA 9
+  A9: stored='T'; original='T'
+  B9: stored='8a'; original='8a'
+  C9: stored=2191.2; original=2191.2
+  D9: stored=0.17328042328042326; original='=(C9-684.7)/8694'
+  E9: stored=0.8664021164021163; original='=D9*5'
+  F9: stored=52.19289857844075; original='=E9*100/1.66'
+  G9: stored=521.9289857844075; original='=F9*1000/100'
+  H9: stored=478.0710142155925; original='=1000-G9'
+  I9: stored=47.80710142155925; original='=H9*100/1000'
+  J9: stored=5.559035443757686; original=5.559035443757686
+  K9: stored=472.51197877183483; original=472.51197877183483
+  L9: stored=7.105427357601002e-15; original='=1000-G9-K9-J9'
+  M9: stored=472.51197877183483; original='=K9+L9'
+  N9: stored=47.251197877183486; original='=M9*100/1000'
+
+FILA 10
+  A10: stored='T'; original='T'
+  B10: stored='9a'; original='9a'
+  C10: stored=1920.1; original=1920.1
+  D10: stored=0.14209799861973774; original='=(C10-684.7)/8694'
+  E10: stored=0.7104899930986887; original='=D10*5'
+  F10: stored=42.800601993896905; original='=E10*100/1.66'
+  G10: stored=428.006019938969; original='=F10*1000/100'
+  H10: stored=571.9939800610309; original='=1000-G10'
+  I10: stored=57.19939800610309; original='=H10*100/1000'
+  J10: stored=6.542643878668449; original=6.542643878668449
+  K10: stored=565.4513361823625; original=565.4513361823625
+  L10: stored=-4.884981308350689e-14; original='=1000-G10-K10-J10'
+  M10: stored=565.4513361823625; original='=K10+L10'
+  N10: stored=56.54513361823625; original='=M10*100/1000'

@@ -1,0 +1,37 @@
+==========================================================================================
+MODULE 3 — LEAVE-ONE-TIME-POINT-OUT CROSS-VALIDATION
+==========================================================================================
+
+PERFORMANCE BY EXCLUDED TIME
+------------------------------------------------------------------------------------------
+       Model  Excluded time (days) Validation type  Training n  Test n       RMSE        MAE  Mean prediction bias
+   M1_linear                     5   Extrapolation          36      12  17.960259  15.819996             -3.277260
+   M1_linear                    10   Interpolation          36      12  11.917437  10.171642              2.000069
+   M1_linear                    20   Interpolation          36      12  22.407749  19.460605              1.153067
+   M1_linear                    40   Extrapolation          36      12  55.568113  48.110766             -4.545883
+M2_quadratic                     5   Extrapolation          36      12  21.054306  19.908174             -3.024452
+M2_quadratic                    10   Interpolation          36      12  13.149122  11.376100              1.728258
+M2_quadratic                    20   Interpolation          36      12  24.176863  22.752199             -3.456516
+M2_quadratic                    40   Extrapolation          36      12 168.028801 159.265394             24.195614
+
+OVERALL PERFORMANCE
+------------------------------------------------------------------------------------------
+       Model  n predictions  LOTO-CV RMSE  LOTO-CV MAE  Mean prediction bias
+   M1_linear             48     31.837551    23.390752             -1.167502
+M2_quadratic             48     85.782256    53.325467              4.860726
+
+INTERPOLATION VS EXTRAPOLATION
+------------------------------------------------------------------------------------------
+       Model Validation type  n predictions       RMSE       MAE  Mean prediction bias
+   M1_linear   Interpolation             24  17.946205 14.816124              1.576568
+   M1_linear   Extrapolation             24  41.293983 31.965381             -3.911571
+M2_quadratic   Interpolation             24  19.460474 17.064149             -0.864129
+M2_quadratic   Extrapolation             24 119.743396 89.586784             10.585581
+
+INTERPRETATION NOTES
+------------------------------------------------------------------------------------------
+1. Each fold excludes one complete experimental sampling time.
+2. Excluding 10 or 20 days evaluates temporal interpolation.
+3. Excluding 5 or 40 days evaluates temporal extrapolation relative to the training range.
+4. M3 categorical-time reference model is not eligible for this validation because an unseen time category cannot be predicted.
+5. No nominal t=0 observation was introduced.

@@ -1,0 +1,39 @@
+==============================================================================
+VALIDACIÓN — BASE 3: CARACTERIZACIÓN FISICOQUÍMICA
+==============================================================================
+
+Observaciones originales: 63
+Observaciones procesadas: 63
+Número de variables: 7
+Número de suelos: 3
+Réplicas esperadas por variable × suelo: 3
+Todas las combinaciones tienen 3 réplicas: True
+Observaciones de Capulín: 21
+
+UNIDADES DOCUMENTADAS
+------------------------------------------------------------------------------
+D: Densidad [g/cm3]
+pH: pH [dimensionless]
+H: Humedad gravimétrica [% w/w]
+N: Nitrógeno [%]
+CO: Carbono orgánico [%]
+MO: Materia orgánica [%]
+CIC: Capacidad de intercambio catiónico [cmol(+)/kg]
+
+RESUMEN DESCRIPTIVO — CAPULÍN
+------------------------------------------------------------------------------
+variable_code               variable_description          unit  n      mean       sd  minimum  maximum
+            D                           Densidad         g/cm3  3  2.376667 0.046188     2.35     2.43
+           pH                                 pH dimensionless  3  6.846667 0.306649     6.65     7.20
+            H               Humedad gravimétrica         % w/w  3 14.730000 0.330454    14.35    14.95
+            N                          Nitrógeno             %  3  0.190000 0.010000     0.18     0.20
+           CO                   Carbono orgánico             %  3  2.866667 0.030551     2.84     2.90
+           MO                   Materia orgánica             %  3  4.940000 0.010000     4.93     4.95
+          CIC Capacidad de intercambio catiónico    cmol(+)/kg  3 29.350000 0.010000    29.34    29.36
+
+DECISIONES ANALÍTICAS
+------------------------------------------------------------------------------
+- No se realizaron pruebas inferenciales entre suelos.
+- No se utilizaron las propiedades del suelo como predictores del modelo de degradación.
+- Capulín se identifica como el suelo utilizado en los experimentos de degradación.
+- Las tres réplicas originales se conservaron individualmente.

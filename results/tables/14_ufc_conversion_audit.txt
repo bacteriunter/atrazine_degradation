@@ -1,0 +1,69 @@
+==========================================================================================
+AUDITORÍA DE CONVERSIÓN CONTEO -> UFC
+==========================================================================================
+
+Pares numéricos detectados: 377
+Hojas inspeccionadas: 4
+
+PARES DETECTADOS POR HOJA
+------------------------------------------------------------------------------------------
+sheet
+Actinomicetos             84
+Bacterias PDA serie 1    132
+Extracto de suelo         78
+PDA acidificado           83
+
+FACTORES UFC / CONTEO POR HOJA, SUELO Y DILUCIÓN
+------------------------------------------------------------------------------------------
+                sheet       soil  dilution_exponent dilution_label  n_pairs  factor_min    factor_max  factor_mean    factor_sd  factor_range
+        Actinomicetos    Capulin                  3          10^-3       29    0.416667 138245.662542 44939.056954 55508.636465 138245.245876
+        Actinomicetos  Santa Ana                  3          10^-3       27 1054.852321 105485.232068 39029.535865 48049.028675 104430.379747
+        Actinomicetos Tepantitla                  3          10^-3       28    0.900000 118764.845606 42373.632414 53732.277783 118763.945606
+Bacterias PDA serie 1    Capulin                  3          10^-3       46 1175.088132 117509.813161 37730.634139 50827.783998 116334.725029
+Bacterias PDA serie 1  Santa Ana                  3          10^-3       62 1054.852321 105485.232068 20025.277120 35767.412913 104430.379747
+    Extracto de suelo    Capulin                  3          10^-3       26 1175.088132 117508.813161 40630.931935 52459.148823 116333.725029
+    Extracto de suelo  Santa Ana                  3          10^-3       18 1054.852321  10548.523207  5801.687764  4884.453374   9493.670886
+    Extracto de suelo Tepantitla                  3          10^-3       24 1187.648456 118764.845606 34590.261283 49868.093679 117577.197150
+      PDA acidificado    Capulin                  3          10^-3       23    0.714286 117508.813161 25494.334433 43452.877323 117508.098875
+      PDA acidificado  Santa Ana                  3          10^-3       20 1054.852321 105485.232068 20516.877637 36894.402905 104430.379747
+      PDA acidificado Tepantitla                  3          10^-3       21    3.000000 118764.845606 32179.760547 49818.754447 118761.845606
+
+FACTORES APROXIMADOS OBSERVADOS
+------------------------------------------------------------------------------------------
+ufc_per_colony
+0.416667          1
+0.714286          1
+0.900000          1
+1.625000          1
+3.000000          1
+1054.852321      54
+1175.088132      44
+1187.648456      27
+5275.261603       2
+10548.523207     46
+10549.523207      4
+11750.850000      1
+11750.881316     38
+11751.881316      2
+11876.484561     24
+13317.665492      1
+105485.232068    21
+117508.813161    31
+117509.813161     2
+118764.845606    21
+138245.662542     1
+
+FACTOR GLOBAL POR EXPONENTE DE DILUCIÓN
+------------------------------------------------------------------------------------------
+                   count       min            max          mean           std
+dilution_exponent                                                            
+3                    324  0.416667  138245.662542  31432.565668  46538.105833
+
+INTERPRETACIÓN DE ESTA ETAPA
+------------------------------------------------------------------------------------------
+Este reporte es exclusivamente diagnóstico.
+ufc_per_colony = ufc_reported / colony_count.
+No se recalcularon ni corrigieron las UFC del archivo original.
+numeric_sequence NO se interpreta todavía como repetición experimental.
+Su única función es permitir rastrear la secuencia de pares numéricos detectados debajo de cada bloque.
+La fórmula original de conversión se determinará únicamente si los factores observados permiten reconstruirla sin ambigüedad.

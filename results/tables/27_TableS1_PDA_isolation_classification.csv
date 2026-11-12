@@ -1,0 +1,55 @@
+Soil,Time (h),Dilution exponent,Original observation,Observation recorded,Bacterial growth,Fungal growth,Overall growth
+Tepantitla,24,1,incontable de colonias de baterias en las 3 cajas,True,Present,Not determined,Present
+Capulín,24,1,sin crecimiento,True,Not determined,Not determined,Absent
+Santa Ana,24,1,crecimiento  de colonias de bacterias,True,Present,Not determined,Present
+Tepantitla,24,2,incontable de colonias de baterias en las 3 cajas,True,Present,Not determined,Present
+Capulín,24,2,sin crecimiento,True,Not determined,Not determined,Absent
+Santa Ana,24,2,sin crecimiento,True,Not determined,Not determined,Absent
+Tepantitla,24,3,crecimiento moderado de colonias de bacterias,True,Present,Not determined,Present
+Capulín,24,3,crecimiento en 1 caja de colonias de bacterias,True,Present,Not determined,Present
+Santa Ana,24,3,crecimiento  de colonias de bacterias en 1 caja  y de hongos en forma de hinfas en diferentes direcciones de color blanco,True,Present,Present,Present
+Tepantitla,24,4,crecimiento escaso de colonias de bacterias,True,Present,Not determined,Present
+Capulín,24,4,sin crecimiento,True,Not determined,Not determined,Absent
+Santa Ana,24,4,crecimiento en 8 colonias de bacterias  en 1 caja,True,Present,Not determined,Present
+Tepantitla,24,5,crecimiento de 1 colonia de baterias en 2 cajas,True,Present,Not determined,Present
+Capulín,24,5,sin crecimiento,True,Not determined,Not determined,Absent
+Santa Ana,24,5,sin crecimiento,True,Not determined,Not determined,Absent
+Tepantitla,24,6,crecimiento de 1 colonia de bateria en 1 cajas,True,Present,Not determined,Present
+Capulín,24,6,sin crecimiento,True,Not determined,Not determined,Absent
+Santa Ana,24,6,sin crecimiento,True,Not determined,Not determined,Absent
+Tepantitla,48,1,"Crecimiento abundante en las tres cajas, de bacterias y  hogos con hifas agrupadas en micelio con coloración café claro en la base de la formación del hongo, el crecimiento en en todas direcciones",True,Present,Present,Present
+Capulín,48,1,sin crecimiento,True,Not determined,Not determined,Absent
+Santa Ana,48,1,"Crecimiento en una caja de hongos filamentosos, las hinfas son blancas y delagadas, se observa unos pequeños puntos negros en la superficoe de las hinfas, las hinfas crecen en todos los planos de la caja",True,Not determined,Present,Present
+Tepantitla,48,2,"crecimiento moderado en las tres cajas, de bacterias y  hogos con hinfas agrupadas en micelio , el crecimiento en  todas direcciones",True,Present,Present,Present
+Capulín,48,2,ligero crecimiento en las 3 cajas de bacterias,True,Present,Not determined,Present
+Santa Ana,48,2,cremiento apenas perceptible de bacterias,True,Present,Not determined,Present
+Tepantitla,48,3,"crecimiento de 2 hongos en 2 cajas  y uno en otra caja, el crecimiento de las  hinfas es moderado pero en  todas direcciones",True,Not determined,Present,Present
+Capulín,48,3,"crecimiento moderado de bacterias en una caja, liqero en otra y sin crecimiento en la tercera",True,Present,Not determined,Present
+Santa Ana,48,3,"crecimiento en una caja de hongos filamentosos, las hinfas son blancas y robustas con dirección en un mismos plano y tambien crecimiento de colonas de bacterias",True,Present,Present,Present
+Tepantitla,48,4,"No se aprecie crecimiento de hogos , pero si de bacterias",True,Present,Absent,Present
+Capulín,48,4,crecimiento minimo perceptible en 2 cajas,True,Not determined,Not determined,Present
+Santa Ana,48,4,"crecimiento moderado de bacterias y hongos filamentosos,en una caja, las hinfas estan agrupadas  de forma independiente",True,Present,Present,Present
+Tepantitla,48,5,"sin crecimiento de hongos, pero si hay bacterias en 2 cajas",True,Present,Absent,Present
+Capulín,48,5,crecimiento de 2 colonias de baterias en una cja,True,Present,Not determined,Present
+Santa Ana,48,5,sin crecimiento,True,Not determined,Not determined,Absent
+Tepantitla,48,6,crecimiento de bacterias en una solo caja,True,Present,Not determined,Present
+Capulín,48,6,no se aprecia crecimiento alguno,True,Not determined,Not determined,Absent
+Santa Ana,48,6,sin crecimiento,True,Not determined,Not determined,Absent
+Tepantitla,72,1,,False,Not determined,Not determined,Not determined
+Capulín,72,1,,False,Not determined,Not determined,Not determined
+Santa Ana,72,1,,False,Not determined,Not determined,Not determined
+Tepantitla,72,2,,False,Not determined,Not determined,Not determined
+Capulín,72,2,,False,Not determined,Not determined,Not determined
+Santa Ana,72,2,,False,Not determined,Not determined,Not determined
+Tepantitla,72,3,,False,Not determined,Not determined,Not determined
+Capulín,72,3,,False,Not determined,Not determined,Not determined
+Santa Ana,72,3,,False,Not determined,Not determined,Not determined
+Tepantitla,72,4,,False,Not determined,Not determined,Not determined
+Capulín,72,4,,False,Not determined,Not determined,Not determined
+Santa Ana,72,4,,False,Not determined,Not determined,Not determined
+Tepantitla,72,5,,False,Not determined,Not determined,Not determined
+Capulín,72,5,,False,Not determined,Not determined,Not determined
+Santa Ana,72,5,,False,Not determined,Not determined,Not determined
+Tepantitla,72,6,,False,Not determined,Not determined,Not determined
+Capulín,72,6,,False,Not determined,Not determined,Not determined
+Santa Ana,72,6,,False,Not determined,Not determined,Not determined

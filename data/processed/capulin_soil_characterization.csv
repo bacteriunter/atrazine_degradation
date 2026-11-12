@@ -1,0 +1,22 @@
+original_label,variable_code,variable,variable_description,unit,soil_code,soil,replicate,value,used_in_degradation_experiments
+Dc,D,density,Densidad,g/cm3,c,Capulin,1,2.35,True
+Dc,D,density,Densidad,g/cm3,c,Capulin,2,2.43,True
+Dc,D,density,Densidad,g/cm3,c,Capulin,3,2.35,True
+pHc,pH,pH,pH,dimensionless,c,Capulin,1,6.69,True
+pHc,pH,pH,pH,dimensionless,c,Capulin,2,7.2,True
+pHc,pH,pH,pH,dimensionless,c,Capulin,3,6.65,True
+Hc,H,gravimetric_moisture,Humedad gravimétrica,% w/w,c,Capulin,1,14.95,True
+Hc,H,gravimetric_moisture,Humedad gravimétrica,% w/w,c,Capulin,2,14.35,True
+Hc,H,gravimetric_moisture,Humedad gravimétrica,% w/w,c,Capulin,3,14.89,True
+Nc,N,nitrogen,Nitrógeno,%,c,Capulin,1,0.19,True
+Nc,N,nitrogen,Nitrógeno,%,c,Capulin,2,0.18,True
+Nc,N,nitrogen,Nitrógeno,%,c,Capulin,3,0.2,True
+COc,CO,organic_carbon,Carbono orgánico,%,c,Capulin,1,2.84,True
+COc,CO,organic_carbon,Carbono orgánico,%,c,Capulin,2,2.9,True
+COc,CO,organic_carbon,Carbono orgánico,%,c,Capulin,3,2.86,True
+MOc,MO,organic_matter,Materia orgánica,%,c,Capulin,1,4.94,True
+MOc,MO,organic_matter,Materia orgánica,%,c,Capulin,2,4.93,True
+MOc,MO,organic_matter,Materia orgánica,%,c,Capulin,3,4.95,True
+CICc,CIC,cation_exchange_capacity,Capacidad de intercambio catiónico,cmol(+)/kg,c,Capulin,1,29.35,True
+CICc,CIC,cation_exchange_capacity,Capacidad de intercambio catiónico,cmol(+)/kg,c,Capulin,2,29.34,True
+CICc,CIC,cation_exchange_capacity,Capacidad de intercambio catiónico,cmol(+)/kg,c,Capulin,3,29.36,True

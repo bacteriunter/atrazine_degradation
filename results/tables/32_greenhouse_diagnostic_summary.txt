@@ -1,0 +1,38 @@
+==========================================================================================
+MODULE 4 — GREENHOUSE MODEL DIAGNOSTICS
+==========================================================================================
+
+ANALYTICAL DESIGN
+------------------------------------------------------------------------------------------
+Treatments: Tes, F, R, T, RT
+n = 3 independent observations per treatment
+Total analytical n = 15
+Treatment B excluded because atrazine was not added.
+
+DESCRIPTIVE STATISTICS
+------------------------------------------------------------------------------------------
+                 Response Treatment  n      Mean       SD    Median   Minimum   Maximum
+  soil_biodegradation_pct         F  3 24.536540 2.878541 25.634214 21.270659 26.704749
+  soil_biodegradation_pct         R  3 32.080519 2.731220 31.665932 29.580295 34.995330
+  soil_biodegradation_pct        RT  3 43.956872 3.266679 42.163409 41.979789 47.727418
+  soil_biodegradation_pct         T  3 56.509960 8.379438 57.199398 47.807101 64.523380
+  soil_biodegradation_pct       Tes  3 13.316944 6.492054 16.530165  5.844912 17.575755
+global_bioremediation_pct         F  3 24.441741 2.892091 25.552787 21.158879 26.613556
+global_bioremediation_pct         R  3 31.371764 2.704049 30.976659 28.887004 34.251630
+global_bioremediation_pct        RT  3 43.499782 3.230370 41.744959 41.526625 47.227761
+global_bioremediation_pct         T  3 55.855146 8.280543 56.545134 47.251198 63.769106
+global_bioremediation_pct       Tes  3 13.088377 6.393273 16.253061  5.730005 17.282066
+
+MODEL DIAGNOSTICS
+------------------------------------------------------------------------------------------
+                 Response  n  Residual df  Shapiro-Wilk W  Shapiro-Wilk p  Brown-Forsythe statistic  Brown-Forsythe p  |standardized residual| > 2  |standardized residual| > 3  Maximum |standardized residual|
+  soil_biodegradation_pct 15           10        0.968248        0.831313                  0.557802          0.698495                            1                            0                         2.023166
+global_bioremediation_pct 15           10        0.968644        0.837489                  0.552914          0.701694                            1                            0                         2.023831
+
+NOTES
+------------------------------------------------------------------------------------------
+1. Diagnostics correspond to separate one-factor models: response ~ treatment.
+2. Shapiro-Wilk was applied to model residuals.
+3. Brown-Forsythe was calculated using median-centered absolute deviations.
+4. No inferential treatment comparison is performed by this script.
+5. The two original observations using a multiplier of 4 remain unchanged.

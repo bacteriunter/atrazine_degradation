@@ -1,0 +1,49 @@
+========================================================================
+VALIDACIÓN — PREPARACIÓN DE DATOS DE LABORATORIO
+========================================================================
+
+Filas originales del Excel: 61
+Unidades experimentales reconocidas: 60
+Filas auxiliares/no experimentales: 1
+
+DATASET PROCESADO:
+n = 60
+time_days  5   10  20  40
+treatment                
+B           3   3   3   3
+Te          3   3   3   3
+R           3   3   3   3
+T           3   3   3   3
+RT          3   3   3   3
+
+DATASET ANALÍTICO:
+n = 48
+time_days  5   10  20  40
+treatment                
+Te          3   3   3   3
+R           3   3   3   3
+T           3   3   3   3
+RT          3   3   3   3
+
+Tratamientos analíticos:
+R, RT, T, Te
+
+Tratamiento B:
+Conservado en dataset procesado: Sí
+Incluido en dataset analítico: No
+Razón: no_atrazine_added
+
+Concentración nominal:
+B = 0 ppm
+Te/R/T/RT = 500 ppm
+500 ppm corresponde a concentración nominal/teórica, no a una medición HPLC en t=0.
+
+% remoción == % biodegradación:
+True
+
+Validaciones:
+Dataset procesado 5 × 4 × 3: True
+Dataset analítico 4 × 4 × 3: True
+B correctamente marcado para exclusión: True
+
+No se realizaron análisis estadísticos.

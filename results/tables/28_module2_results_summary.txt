@@ -1,0 +1,25 @@
+==========================================================================================
+MODULE 2 — COMPARATIVE FUNCTIONAL CHARACTERIZATION
+==========================================================================================
+
+COLLECTION-LEVEL ATRAZINE INHIBITION
+------------------------------------------------------------------------------------------
+ Atrazine concentration (ppm)  Microorganisms with data (n)  Mean inhibition (%)  SD inhibition (%)  Median inhibition (%)  Q1 inhibition (%)  Q3 inhibition (%)  Minimum inhibition (%)  Maximum inhibition (%)  Zero inhibition (n)  Zero inhibition (%)
+                         5000                            31             2.016129           4.560672                    0.0                0.0               0.00                     0.0                   16.25                   25            80.645161
+                         7500                            31             3.508065           6.925341                    0.0                0.0               0.00                     0.0                   20.00                   24            77.419355
+                        10000                            31            19.879032          39.977018                    0.0                0.0               1.25                     0.0                  100.00                   23            74.193548
+
+R AND T WITHIN THE MICROBIAL COLLECTION
+------------------------------------------------------------------------------------------
+Base 1 treatment Microorganism  Growth time (days)  Growth rate (mm/day)  Inhibition at 5000 ppm (%)  Inhibition at 7500 ppm (%)  Inhibition at 10000 ppm (%)
+               R  Rhizobium sp                   4                  20.0                         0.0                         0.0                          2.5
+               T Trichoderma 1                   5                  16.0                         0.0                         0.0                          0.0
+
+INTERPRETATION RULES
+------------------------------------------------------------------------------------------
+1. Results are descriptive; microorganisms are not treated as biological replicates.
+2. Inhibition percentages at 5,000, 7,500, and 10,000 ppm are repeated characteristics of each microorganism.
+3. Growth percentage is not analyzed separately because growth and inhibition percentages are algebraically complementary.
+4. MIC values are neither calculated nor imputed.
+5. The empirical position of R and T is descriptive and refers only to this 31-microorganism collection.
+6. No causal relationship between tolerance and atrazine biodegradation is assumed.

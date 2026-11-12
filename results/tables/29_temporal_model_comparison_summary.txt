@@ -1,0 +1,17 @@
+==========================================================================================
+MODULE 3 — TEMPORAL MODEL COMPARISON
+==========================================================================================
+
+                   Model                                                             Formula  n  Parameters       R2  Adjusted R2        AIC       AICc      RMSE      MAE  LOOCV RMSE  LOOCV MAE  Delta AICc
+M3_categorical_reference                  biodegradation_pct ~ C(treatment) * C(time_factor) 48          16 0.976001     0.964752 291.746245 309.294632  3.621005 2.748032    5.431507   4.122048    0.000000
+            M2_quadratic biodegradation_pct ~ C(treatment) * (time_days + I(time_days ** 2)) 48          12 0.934344     0.914283 332.054152 340.968438  5.989206 4.674643    7.495472   6.092415   31.673806
+               M1_linear                       biodegradation_pct ~ C(treatment) * time_days 48           8 0.772673     0.732890 383.668666 387.360974 11.144470 8.996218   12.913286  10.663316   78.066342
+
+MODEL ROLES
+------------------------------------------------------------------------------------------
+M1: continuous linear temporal model.
+M2: continuous quadratic temporal model.
+M3: categorical-time reference model restricted to the observed sampling times.
+
+No nominal t=0 observation was included.
+No monotonic kinetic model was imposed.

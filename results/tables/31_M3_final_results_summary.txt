@@ -1,0 +1,38 @@
+==========================================================================================
+MODULE 3 — FINAL M3 MODEL
+==========================================================================================
+
+FINAL MODEL
+------------------------------------------------------------------------------------------
+biodegradation_pct ~ C(treatment) * C(time_factor)
+
+                       Model  n  Parameters       R2  Adjusted R2        AIC       AICc  In-sample RMSE  In-sample MAE  LOOCV RMSE  LOOCV MAE                   Prediction domain
+Treatment × categorical time 48          16 0.976001     0.964752 291.746245 309.294632        3.621005       2.748032    5.431507   4.122048 Te/R/T/RT at 5, 10, 20, and 40 days
+
+OBSERVED AND MODEL-ESTIMATED VALUES
+------------------------------------------------------------------------------------------
+Treatment  Time (days)  n  Observed mean biodegradation (%)  Observed SD  Predicted biodegradation (%)  Mean CI lower 95%  Mean CI upper 95%  Observed minimum (%)  Observed maximum (%)
+       Te            5  3                         23.977456     1.074213                     23.977456          18.762016          29.192895             22.776628             24.847021
+       Te           10  3                         34.873093     5.495112                     34.873093          29.657653          40.088532             28.550725             38.500115
+       Te           20  3                         22.439997     1.000932                     22.439997          17.224558          27.655436             21.713826             23.581781
+       Te           40  3                         29.496204     6.998631                     29.496204          24.280765          34.711644             24.285714             37.451116
+        R            5  3                         58.629706     1.391965                     58.629706          53.414267          63.845146             57.485622             60.179434
+        R           10  3                         60.448585     2.666357                     60.448585          55.233146          65.664025             57.540833             62.778928
+        R           20  3                         51.348056     5.354050                     51.348056          46.132617          56.563495             46.572349             57.135956
+        R           40  3                         83.513534     1.465543                     83.513534          78.298095          88.728974             81.821946             84.400736
+        T            5  3                         22.989035     0.912095                     22.989035          17.773595          28.204474             22.275132             24.016563
+        T           10  3                         33.712139     9.104978                     33.712139          28.496699          38.927578             26.779388             44.023465
+        T           20  3                         88.467909     2.383924                     88.467909          83.252470          93.683348             87.016333             91.219232
+        T           40  3                         89.436393     3.304080                     89.436393          84.220954          94.651832             86.333103             92.910053
+       RT            5  3                         56.883675     3.171008                     56.883675          51.668235          62.099114             54.253508             60.404877
+       RT           10  3                         39.752320     7.299330                     39.752320          34.536880          44.967759             31.633310             45.771797
+       RT           20  3                         43.904609     4.016712                     43.904609          38.689169          49.120048             39.907983             47.941109
+       RT           40  3                         80.728472     3.699262                     80.728472          75.513032          85.943911             77.793881             84.883828
+
+INTERPRETATION LIMITS
+------------------------------------------------------------------------------------------
+1. Predictions are restricted to experimentally observed treatment × time combinations.
+2. The model does not support prediction at unobserved sampling times.
+3. The nominal 500 ppm initial concentration is not treated as an observed t=0 HPLC measurement.
+4. LOOCV evaluates prediction of an independent experimental unit while retaining other replicates from the same treatment × time combination.
+5. Leave-one-time-point-out validation showed poor generalization of continuous linear and quadratic temporal models to unseen times.

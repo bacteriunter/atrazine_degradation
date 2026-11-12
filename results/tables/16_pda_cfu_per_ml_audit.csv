@@ -1,0 +1,46 @@
+organism_group,medium,soil_code,soil,dilution_exponent,dilution,block,replicate,source_row,count_cell,cfu_cell,colony_count,inoculated_volume_ml,cfu_per_ml_reported,cfu_formula_original,cfu_per_ml_recalculated,cfu_per_ml_difference,cfu_per_ml_status
+Bacteria,PDA,ST,Tepantitla,5,10^-5,B1,1,17,B17,C17,0.0,0.842,,,0.0,,zero_count_missing_ufc
+Bacteria,PDA,ST,Tepantitla,5,10^-5,B1,2,18,B18,C18,0.0,0.842,,,0.0,,zero_count_missing_ufc
+Bacteria,PDA,ST,Tepantitla,5,10^-5,B1,3,19,B19,C19,0.0,0.842,,,0.0,,zero_count_missing_ufc
+Bacteria,PDA,ST,Tepantitla,5,10^-5,B2,1,17,D17,E17,0.0,0.842,,,0.0,,zero_count_missing_ufc
+Bacteria,PDA,ST,Tepantitla,5,10^-5,B2,2,18,D18,E18,0.0,0.842,,,0.0,,zero_count_missing_ufc
+Bacteria,PDA,ST,Tepantitla,5,10^-5,B2,3,19,D19,E19,0.0,0.842,,,0.0,,zero_count_missing_ufc
+Bacteria,PDA,ST,Tepantitla,5,10^-5,B3,1,17,F17,G17,0.0,0.842,,,0.0,,zero_count_missing_ufc
+Bacteria,PDA,ST,Tepantitla,5,10^-5,B3,2,18,F18,G18,0.0,0.842,,,0.0,,zero_count_missing_ufc
+Bacteria,PDA,ST,Tepantitla,5,10^-5,B3,3,19,F19,G19,0.0,0.842,,,0.0,,zero_count_missing_ufc
+Bacteria,PDA,SS,Santa Ana,4,10^-4,B1,3,9,R9,S9,,0.948,,,,,missing_count
+Bacteria,PDA,SS,Santa Ana,5,10^-5,B2,3,14,T14,U14,0.0,0.948,,,0.0,,zero_count_missing_ufc
+Bacteria,PDA,SS,Santa Ana,5,10^-5,B3,3,14,V14,W14,0.0,0.948,,,0.0,,zero_count_missing_ufc
+Fungi,PDA,ST,Tepantitla,3,10^-3,B2,3,25,D25,E25,0.0,0.842,0.0,=D25*1000/0.842,0.0,0.0,zero_consistent
+Fungi,PDA,ST,Tepantitla,4,10^-4,B1,2,29,B29,C29,0.0,0.842,0.0,=B29*10000/0.842,0.0,0.0,zero_consistent
+Fungi,PDA,ST,Tepantitla,4,10^-4,B2,3,30,D30,E30,0.0,0.842,0.0,=D30*10000/0.842,0.0,0.0,zero_consistent
+Fungi,PDA,ST,Tepantitla,4,10^-4,B3,1,28,F28,G28,0.0,0.842,0.0,=F28*10000/0.842,0.0,0.0,zero_consistent
+Fungi,PDA,ST,Tepantitla,4,10^-4,B3,2,29,F29,G29,0.0,0.842,0.0,=F29*10000/0.842,0.0,0.0,zero_consistent
+Fungi,PDA,ST,Tepantitla,4,10^-4,B3,3,30,F30,G30,0.0,0.842,0.0,=F30*10000/0.842,0.0,0.0,zero_consistent
+Fungi,PDA,ST,Tepantitla,5,10^-5,B1,2,33,B33,C33,0.0,0.842,0.0,0,0.0,0.0,zero_consistent
+Fungi,PDA,ST,Tepantitla,5,10^-5,B1,3,34,B34,C34,0.0,0.842,0.0,0,0.0,0.0,zero_consistent
+Fungi,PDA,ST,Tepantitla,5,10^-5,B2,3,34,D34,E34,0.0,0.842,0.0,=D34*100000/0.842,0.0,0.0,zero_consistent
+Fungi,PDA,ST,Tepantitla,5,10^-5,B3,2,33,F33,G33,0.0,0.842,0.0,=F33*100000/0.842,0.0,0.0,zero_consistent
+Fungi,PDA,SC,Capulin,3,10^-3,B3,3,24,N24,O24,0.0,0.851,0.0,=N24*1000/0.851,0.0,0.0,zero_consistent
+Fungi,PDA,SC,Capulin,4,10^-4,B2,2,28,L28,M28,0.0,0.851,0.0,=L28*10000/0.851,0.0,0.0,zero_consistent
+Fungi,PDA,SC,Capulin,4,10^-4,B3,1,27,N27,O27,1.0,0.851,11751.881316098708,=N27+10000/0.851,11750.881316098708,1.0,formula_error
+Fungi,PDA,SC,Capulin,4,10^-4,B3,2,28,N28,O28,0.0,0.851,11750.881316098708,=N28+10000/0.851,0.0,11750.881316098708,formula_error
+Fungi,PDA,SC,Capulin,4,10^-4,B3,3,29,N29,O29,1.0,0.851,11751.881316098708,=N29+10000/0.851,11750.881316098708,1.0,formula_error
+Fungi,PDA,SC,Capulin,5,10^-5,B1,2,33,J33,K33,0.0,0.851,0.0,=J33*100000/0.851,0.0,0.0,zero_consistent
+Fungi,PDA,SC,Capulin,5,10^-5,B2,1,32,L32,M32,1.0,0.851,117509.81316098708,=L32+100000/0.851,117508.81316098708,1.0,formula_error
+Fungi,PDA,SC,Capulin,5,10^-5,B2,2,33,L33,M33,1.0,0.851,117509.81316098708,=L33+100000/0.851,117508.81316098708,1.0,formula_error
+Fungi,PDA,SC,Capulin,5,10^-5,B2,3,34,L34,M34,0.0,0.851,117508.81316098708,=L34+100000/0.851,0.0,117508.81316098708,formula_error
+Fungi,PDA,SC,Capulin,5,10^-5,B3,1,32,N32,O32,0.0,0.851,0.0,0,0.0,0.0,zero_consistent
+Fungi,PDA,SC,Capulin,5,10^-5,B3,2,33,N33,O33,0.0,0.851,0.0,0,0.0,0.0,zero_consistent
+Fungi,PDA,SC,Capulin,5,10^-5,B3,3,34,N34,O34,0.0,0.851,0.0,0,0.0,0.0,zero_consistent
+Fungi,PDA,SS,Santa Ana,4,10^-4,B3,1,27,V27,W27,1.0,0.948,10549.523206751055,=V27+10000/0.948,10548.523206751055,1.0,formula_error
+Fungi,PDA,SS,Santa Ana,4,10^-4,B3,2,28,V28,W28,1.0,0.948,10549.523206751055,=V28+10000/0.948,10548.523206751055,1.0,formula_error
+Fungi,PDA,SS,Santa Ana,4,10^-4,B3,3,29,V29,W29,2.0,0.948,10550.523206751055,=V29+10000/0.948,21097.04641350211,-10546.523206751055,formula_error
+Fungi,PDA,SS,Santa Ana,5,10^-5,B1,2,32,R32,S32,0.0,0.948,0.0,=R32*100000/0.948,0.0,0.0,zero_consistent
+Fungi,PDA,SS,Santa Ana,5,10^-5,B1,3,33,R33,S33,0.0,0.948,0.0,=R33*100000/0.948,0.0,0.0,zero_consistent
+Fungi,PDA,SS,Santa Ana,5,10^-5,B2,1,31,T31,U31,0.0,0.948,0.0,0,0.0,0.0,zero_consistent
+Fungi,PDA,SS,Santa Ana,5,10^-5,B2,2,32,T32,U32,0.0,0.948,0.0,0,0.0,0.0,zero_consistent
+Fungi,PDA,SS,Santa Ana,5,10^-5,B2,3,33,T33,U33,0.0,0.948,0.0,0,0.0,0.0,zero_consistent
+Fungi,PDA,SS,Santa Ana,5,10^-5,B3,1,31,V31,W31,0.0,0.948,0.0,0,0.0,0.0,zero_consistent
+Fungi,PDA,SS,Santa Ana,5,10^-5,B3,2,32,V32,W32,0.0,0.948,0.0,0,0.0,0.0,zero_consistent
+Fungi,PDA,SS,Santa Ana,5,10^-5,B3,3,33,V33,W33,0.0,0.948,0.0,0,0.0,0.0,zero_consistent

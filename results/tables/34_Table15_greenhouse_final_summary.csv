@@ -1,0 +1,11 @@
+Response,Treatment,Treatment description,n,Mean (%),SD,Tukey group
+soil_biodegradation_pct,F,Soil + atrazine + bean,3,24.536540456743,2.8785409379637334,cd
+soil_biodegradation_pct,R,Bean + Rhizobium,3,32.08051899338786,2.731219938629318,bc
+soil_biodegradation_pct,RT,Bean + Rhizobium + Trichoderma,3,43.956871885979616,3.2666787843791023,ab
+soil_biodegradation_pct,T,Bean + Trichoderma,3,56.50995978392521,8.379438259238354,a
+soil_biodegradation_pct,Tes,Soil + atrazine,3,13.316943873954509,6.492053828445491,d
+global_bioremediation_pct,F,Soil + atrazine + bean,3,24.44174077976416,2.8920913880424868,
+global_bioremediation_pct,R,Bean + Rhizobium,3,31.37176416332076,2.7040494997884,
+global_bioremediation_pct,RT,Bean + Rhizobium + Trichoderma,3,43.49978163761329,3.2303700784398335,
+global_bioremediation_pct,T,Bean + Trichoderma,3,55.855145938867,8.280542680847327,
+global_bioremediation_pct,Tes,Soil + atrazine,3,13.088377307302002,6.393273067895146,

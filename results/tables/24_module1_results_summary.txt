@@ -1,0 +1,102 @@
+====================================================================================================
+CHECKPOINT 25 — RESULTADOS FINALES DEL MÓDULO 1
+====================================================================================================
+
+CARACTERIZACIÓN FISICOQUÍMICA
+----------------------------------------------------------------------------------------------------
+      soil variable_code          unit  n_subsamples      mean       sd
+   Capulin           CIC    cmol(+)/kg             3 29.350000 0.010000
+   Capulin            CO             %             3  2.866667 0.030551
+   Capulin             D         g/cm3             3  2.376667 0.046188
+   Capulin             H         % w/w             3 14.730000 0.330454
+   Capulin            MO             %             3  4.940000 0.010000
+   Capulin             N             %             3  0.190000 0.010000
+   Capulin            pH dimensionless             3  6.846667 0.306649
+ Santa Ana           CIC    cmol(+)/kg             3 25.460000 0.105357
+ Santa Ana            CO             %             3  4.077000 0.011269
+ Santa Ana             D         g/cm3             3  2.353333 0.187172
+ Santa Ana             H         % w/w             3 11.850000 0.050000
+ Santa Ana            MO             %             3  4.046667 0.023094
+ Santa Ana             N             %             3  0.290000 0.026458
+ Santa Ana            pH dimensionless             3  8.040000 0.081854
+Tepantitla           CIC    cmol(+)/kg             3 59.630000 0.026458
+Tepantitla            CO             %             3  3.360000 0.020000
+Tepantitla             D         g/cm3             3  2.293333 0.295014
+Tepantitla             H         % w/w             3 15.473333 0.525389
+Tepantitla            MO             %             3  5.783333 0.005774
+Tepantitla             N             %             3  0.247667 0.003055
+Tepantitla            pH dimensionless             3  6.413333 0.205508
+
+RECUENTOS MICROBIOLÓGICOS POR DILUCIÓN
+----------------------------------------------------------------------------------------------------
+  microbial_group       soil dilution  n_counts  mean_cfu_ml    sd_cfu_ml  median_cfu_ml
+     PDA_bacteria    Capulin    10^-3         9 1.540671e+05 4.901133e+04   1.562867e+05
+     PDA_bacteria    Capulin    10^-4         9 1.181616e+06 4.445621e+05   1.316099e+06
+     PDA_bacteria    Capulin    10^-5         9 3.956130e+06 2.752065e+06   4.230317e+06
+     PDA_bacteria  Santa Ana    10^-3         9 9.962494e+04 4.175707e+04   1.149789e+05
+     PDA_bacteria  Santa Ana    10^-4         8 4.997363e+05 2.284736e+05   4.905063e+05
+     PDA_bacteria  Santa Ana    10^-5         9 4.453821e+05 3.409058e+05   4.219409e+05
+     PDA_bacteria Tepantitla    10^-2         9 1.778833e+04 2.394355e+03   1.805226e+04
+     PDA_bacteria Tepantitla    10^-3         9 5.001320e+04 1.375372e+04   5.106888e+04
+     PDA_bacteria Tepantitla    10^-4         9 9.369227e+04 3.822884e+04   8.313539e+04
+     PDA_bacteria Tepantitla    10^-5         9 0.000000e+00 0.000000e+00   0.000000e+00
+        PDA_fungi    Capulin    10^-3         9 1.566784e+03 8.309128e+02   1.175088e+03
+        PDA_fungi    Capulin    10^-4         9 9.139574e+03 5.181652e+03   1.175088e+04
+        PDA_fungi    Capulin    10^-5         9 5.222614e+04 6.193258e+04   0.000000e+00
+        PDA_fungi  Santa Ana    10^-3         9 1.875293e+03 4.651462e+02   2.109705e+03
+        PDA_fungi  Santa Ana    10^-4         9 1.758087e+04 7.458932e+03   2.109705e+04
+        PDA_fungi  Santa Ana    10^-5         9 1.172058e+04 3.516174e+04   0.000000e+00
+        PDA_fungi Tepantitla    10^-3         9 2.243336e+03 1.251891e+03   2.375297e+03
+        PDA_fungi Tepantitla    10^-4         9 5.278438e+03 6.259457e+03   0.000000e+00
+        PDA_fungi Tepantitla    10^-5         9 6.598047e+04 6.259457e+04   1.187648e+05
+    Actinomicetos    Capulin    10^-3         9 2.634809e+05 4.453637e+04   2.514689e+05
+    Actinomicetos    Capulin    10^-4         9 2.467685e+05 7.219862e+04   2.350176e+05
+    Actinomicetos    Capulin    10^-5         9 4.569787e+05 1.898817e+05   3.525264e+05
+    Actinomicetos  Santa Ana    10^-3         9 1.129864e+05 1.392889e+04   1.160338e+05
+    Actinomicetos  Santa Ana    10^-4         9 1.312705e+05 5.509297e+04   1.054852e+05
+    Actinomicetos  Santa Ana    10^-5         9 2.930145e+05 1.470921e+05   3.164557e+05
+    Actinomicetos Tepantitla    10^-3         9 2.141726e+05 6.532876e+04   2.114014e+05
+    Actinomicetos Tepantitla    10^-4         9 4.024809e+05 1.059680e+05   3.919240e+05
+    Actinomicetos Tepantitla    10^-5         9 1.609923e+06 3.365004e+05   1.543943e+06
+Extracto de suelo    Capulin    10^-3         9 4.896201e+04 8.267478e+03   4.582844e+04
+Extracto de suelo    Capulin    10^-4         9 1.984593e+05 5.975772e+04   1.997650e+05
+Extracto de suelo    Capulin    10^-5         9 3.394699e+05 2.720808e+05   3.525264e+05
+Extracto de suelo  Santa Ana    10^-3         9 5.309423e+04 1.089872e+04   5.379747e+04
+Extracto de suelo  Santa Ana    10^-4         9 1.593999e+05 5.740094e+04   1.476793e+05
+Extracto de suelo  Santa Ana    10^-5         9 0.000000e+00 0.000000e+00   0.000000e+00
+Extracto de suelo Tepantitla    10^-3         9 3.932436e+04 8.896360e+03   3.919240e+04
+Extracto de suelo Tepantitla    10^-4         9 2.388493e+05 5.647404e+04   2.375297e+05
+Extracto de suelo Tepantitla    10^-5         9 2.507258e+05 2.618519e+05   2.375297e+05
+  PDA acidificado    Capulin    10^-3         9 6.267137e+03 2.692465e+03   5.875441e+03
+  PDA acidificado    Capulin    10^-4         9 3.916960e+04 2.492738e+04   2.350176e+04
+  PDA acidificado    Capulin    10^-5         9 5.222614e+04 6.193258e+04   0.000000e+00
+  PDA acidificado  Santa Ana    10^-3         9 2.812940e+03 1.179361e+03   3.164557e+03
+  PDA acidificado  Santa Ana    10^-4         9 1.758087e+04 1.291925e+04   1.054852e+04
+  PDA acidificado  Santa Ana    10^-5         9 3.516174e+04 5.274262e+04   0.000000e+00
+  PDA acidificado Tepantitla    10^-3         9 8.313539e+03 2.221887e+03   7.125891e+03
+  PDA acidificado Tepantitla    10^-4         9 2.507258e+04 2.875265e+04   2.375297e+04
+  PDA acidificado Tepantitla    10^-5         9 1.055688e+05 1.251891e+05   1.187648e+05
+
+AISLAMIENTO PDA — CRECIMIENTO GENERAL
+----------------------------------------------------------------------------------------------------
+      soil  time_h overall_growth  n_dilutions
+   Capulin      24         absent            5
+   Capulin      24        present            1
+   Capulin      48         absent            2
+   Capulin      48        present            4
+ Santa Ana      24         absent            3
+ Santa Ana      24        present            3
+ Santa Ana      48         absent            2
+ Santa Ana      48        present            4
+Tepantitla      24        present            6
+Tepantitla      48        present            6
+
+CRITERIOS DE INTERPRETACIÓN
+----------------------------------------------------------------------------------------------------
+1. Las propiedades fisicoquímicas se resumen descriptivamente; las tres determinaciones son submuestras de una muestra compuesta.
+2. Los recuentos microbiológicos se presentan separados por dilución.
+3. B1-B3 y las cajas Petri no se consideran réplicas biológicas independientes.
+4. No se realizaron pruebas inferenciales entre suelos.
+5. Los valores microbiológicos corresponden a CFU/mL recalculados a partir de los conteos.
+6. Los ceros se conservaron como ceros y los conteos ausentes no fueron imputados.
+7. La clasificación del aislamiento PDA no representa una escala cuantitativa de abundancia.
